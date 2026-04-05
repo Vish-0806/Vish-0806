@@ -7,8 +7,25 @@
 <h3 align="center">⚡ AI + Web Systems Engineer in Progress</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=Designing+Intelligent+Systems;Building+MediConnect;AI+Driven+Problem+Solving;Future+Focused+Developer;Precision+%7C+Logic+%7C+Execution">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=Designing+Intelligent+Systems;Information+Science+Student;Aspiring+Software+Engineer;AI+Driven+Problem+Solving;Future+Focused+Developer;Precision+%7C+Logic+%7C+Execution">
 </p>
+
+---
+
+## 🧠 ABOUT ME
+```text
+I am an Information Science and Engineering student and an aspiring Software Engineer 
+focused on building intelligent, scalable systems that combine AI with real-world applications.
+
+I specialize in developing structured, logic-driven solutions — from backend systems 
+to AI-powered platforms. My goal is to design systems that are not only functional, 
+but efficient, scalable, and impactful.
+
+Currently focused on:
+→ AI-powered applications
+→ Backend system design
+→ Real-world problem solving using software
+```
 
 ---
 
@@ -16,8 +33,10 @@
 
 ```text
 Name        : Vishal S Naik
+Education   : B.E. in Information Science and Engineering
 Role        : Software Engineer (AI + Web)
 Focus       : Intelligent Systems Development
+Strength    : Problem Solving + System Thinking
 Status      : Building • Learning • Scaling
 ```
 
