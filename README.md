@@ -77,7 +77,7 @@ Status      : Building • Learning • Scaling
 
 ```text
 > Interactive physics experiments
-> Drag-and-drop simulation system
+> Interactive Setup Simulation With Graph plotting
 > Real-time calculations + visualization
 ```
 
