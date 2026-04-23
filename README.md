@@ -133,7 +133,7 @@ Status      : Building • Learning • Scaling
   <a href="https://instagram.com/vishal_naik_2712">
     <img src="https://img.shields.io/badge/Instagram-0f2027?style=for-the-badge&logo=instagram&logoColor=00F7FF"/>
   </a>
-  <a href="https://linkedin.com/in/vishal-s-naik">
+  <a href="https://www.linkedin.com/in/vishal-s-naik-b511533a8/">
     <img src="https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
   </a>
   <a href="mailto:vishalsnaik27@gmail.com">
