@@ -88,6 +88,7 @@ Status      : Building • Learning • Scaling
 > Multi-language translation support
 > Efficient chunk processing system
 > Real-time TTS pipeline
+> Live On : https://echoscript-pdf-to-audio-translator.onrender.com
 ```
 
 ---
