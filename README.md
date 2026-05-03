@@ -81,7 +81,7 @@ Status      : Building • Learning • Scaling
 
 ---
 
-### 📄 PDF → AUDIO INTELLIGENCE
+### 📄 EchoScript : PDF → AUDIO INTELLIGENCE
 
 ```text
 > Converts documents into speech
@@ -93,7 +93,7 @@ Status      : Building • Learning • Scaling
 
 ---
 
-### 🔬 VIRTUAL LAB SIMULATOR
+### 🔬 CircuitSphere : VIRTUAL LAB SIMULATOR
 
 ```text
 > Interactive physics experiments
@@ -102,6 +102,20 @@ Status      : Building • Learning • Scaling
 ```
 
 ---
+
+### 🎙️ Auralis — VOICE CONTROLLED FILE MANAGER
+
+```text
+> Voice-driven file system control
+> Natural Language Processing for command interpretation
+> File operations via speech (create, delete, open, move)
+> Real-time voice feedback system
+> Modular frontend + backend architecture
+> Built for productivity + accessibility
+```
+
+---
+
 
 ## 📊 SYSTEM ANALYTICS
 
