@@ -42,29 +42,75 @@ Status      : Building • Learning • Scaling
 
 ---
 
-## ⚙️ CORE STACK (PRECISION TOOLS)
+## ⚙️ TECH STACK
 
-### 🧑‍💻 Languages
+<div align="center">
 
-![Java](https://img.shields.io/badge/Java-0f2027?style=for-the-badge\&logo=java\&logoColor=00F7FF)
-![C](https://img.shields.io/badge/C-0f2027?style=for-the-badge\&logo=c\&logoColor=00F7FF)
-![Python](https://img.shields.io/badge/Python-0f2027?style=for-the-badge\&logo=python\&logoColor=00F7FF)
+<table>
 
-### 🌐 Development Layer
+<tr>
+<td align="center" width="50%">
 
-![HTML](https://img.shields.io/badge/HTML-0f2027?style=for-the-badge\&logo=html5\&logoColor=00F7FF)
-![CSS](https://img.shields.io/badge/CSS-0f2027?style=for-the-badge\&logo=css3\&logoColor=00F7FF)
-![Flask](https://img.shields.io/badge/Flask-0f2027?style=for-the-badge\&logo=flask\&logoColor=00F7FF)
+### 💻 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,ts" />
+</p>
 
-### 🧠 Intelligence Layer
+</td>
 
-![NLP](https://img.shields.io/badge/NLP-0f2027?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0f2027?style=for-the-badge)
+<td align="center" width="50%">
 
-### ⚙️ Dev Environment
+### 🌐 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react" />
+</p>
 
-![Git](https://img.shields.io/badge/Git-0f2027?style=for-the-badge\&logo=git\&logoColor=00F7FF)
-![VS Code](https://img.shields.io/badge/VSCode-0f2027?style=for-the-badge\&logo=visual-studio-code\&logoColor=00F7FF)
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### ⚙️ Backend & Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+</p>
+
+</td>
+
+<td align="center">
+
+### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🛠️ Developer Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+</td>
+
+<td align="center">
+
+### ☁️ Deployment
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,render" />
+</p>
+
+</td>
+</tr>
+
+</table>
+
+</div>
 
 ---
 
