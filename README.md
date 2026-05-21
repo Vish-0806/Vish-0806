@@ -173,9 +173,7 @@ Status      : Building • Learning • Scaling
 <tr>
 <td align="center">
 
-<img
-src="https://streak-stats.demolab.com?user=Vish-0806&theme=tokyonight&hide_border=true&cache_seconds=60"
-height="170"/>
+<img src="https://streak-stats.demolab.com?user=Vish-0806&theme=tokyonight&hide_border=true&cache_seconds=60" height="160"/> 
 
 </td>
 
