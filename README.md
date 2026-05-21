@@ -171,10 +171,12 @@ Status      : Building • Learning • Scaling
 <p align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=Vish-0806&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+src="https://streak-stats.demolab.com?user=Vish-0806&theme=tokyonight&hide_border=true&cache_seconds=60"
+height="170"/>
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vish-0806&layout=compact&theme=tokyonight&hide_border=true"/>
+src="https://github-readme-stats-two-sigma-31.vercel.app/api/top-langs/?username=Vish-0806&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=60"
+height="170"/>
 
 </p>
 
