@@ -169,8 +169,13 @@ Status      : Building • Learning • Scaling
 ## 📊 SYSTEM ANALYTICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vish-0806&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00F7FF&icon_color=00F7FF"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vish-0806&theme=tokyonight&hide_border=true&background=0f2027&ring=00F7FF&fire=00F7FF"/>
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=Vish-0806&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vish-0806&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -186,8 +191,7 @@ Status      : Building • Learning • Scaling
 ## 🐍 SYSTEM EVOLUTION TRACKER
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Vish-0806/Vish-0806/output/github-contribution-grid-snake.svg"/>
-</p>
+  <img src="https://github.com/Vish-0806/Vish-0806/blob/output/github-contribution-grid-snake-dark.svg?raw=true"/>
 
 ---
 
