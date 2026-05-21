@@ -7,15 +7,16 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
 
     permissions:
       contents: write
 
+    runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v3
 
-      - name: Generate snake
+      - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: Vish-0806
@@ -23,7 +24,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push snake to branch
+      - name: Push Snake
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
