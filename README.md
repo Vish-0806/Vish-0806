@@ -169,15 +169,25 @@ Status      : Building • Learning • Scaling
 ## 📊 SYSTEM ANALYTICS
 
 <p align="center">
+<table align="center">
+<tr>
+<td align="center">
 
 <img
 src="https://streak-stats.demolab.com?user=Vish-0806&theme=tokyonight&hide_border=true&cache_seconds=60"
 height="170"/>
 
+</td>
+
+<td align="center">
+
 <img
 src="https://github-readme-stats-two-sigma-31.vercel.app/api/top-langs/?username=Vish-0806&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=60"
 height="170"/>
 
+</td>
+</tr>
+</table>
 </p>
 
 ---
