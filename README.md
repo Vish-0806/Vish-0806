@@ -123,6 +123,7 @@ Status      : Building • Learning • Scaling
 > Symptom analysis using NLP
 > Online + offline consultation architecture
 > Fast decision-making backend logic
+> Status : OnGoing
 ```
 
 ---
@@ -145,6 +146,7 @@ Status      : Building • Learning • Scaling
 > Interactive physics experiments
 > Interactive Setup Simulation With Graph plotting
 > Real-time calculations + visualization
+> Status : OnGoing
 ```
 
 ---
@@ -158,6 +160,7 @@ Status      : Building • Learning • Scaling
 > Real-time voice feedback system
 > Modular frontend + backend architecture
 > Built for productivity + accessibility
+> Status : OnGoing
 ```
 
 ---
