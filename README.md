@@ -203,7 +203,12 @@ height="170"/>
 ## 🐍 SYSTEM EVOLUTION TRACKER
 
 <p align="center">
-  <img src="https://github.com/Vish-0806/Vish-0806/blob/output/github-contribution-grid-snake-dark.svg?raw=true"/>
+  <img
+    src="https://raw.githubusercontent.com/Vish-0806/Vish-0806/output/github-contribution-grid-snake-dark.svg"
+    alt="Snake animation"
+  />
+</p>
+
 
 ---
 
