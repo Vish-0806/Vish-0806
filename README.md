@@ -52,18 +52,16 @@ Status      : Building • Learning • Scaling
 <td align="center" width="50%">
 
 ### 💻 Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,ts" />
-</p>
+
+<img src="https://skillicons.dev/icons?i=python,java,c,js,ts&perline=5" height="55"/>
 
 </td>
 
 <td align="center" width="50%">
 
 ### 🌐 Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react" />
-</p>
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react&perline=4" height="55"/>
 
 </td>
 </tr>
@@ -72,45 +70,44 @@ Status      : Building • Learning • Scaling
 <td align="center">
 
 ### ⚙️ Backend & Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
-</p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask&perline=3" height="55"/>
 
 </td>
 
 <td align="center">
 
 ### 🗄️ Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
-</p>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&perline=3" height="55"/>
 
 </td>
 </tr>
 
 <tr>
+
 <td align="center">
 
 ### 🛠️ Developer Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" height="55"/>
 
 </td>
 
 <td align="center">
 
 ### ☁️ Deployment
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,render" />
-</p>
+
+<img src="https://skillicons.dev/icons?i=vercel,netlify,render&perline=3" height="55"/>
 
 </td>
+
 </tr>
 
 </table>
 
 </div>
+
 
 ---
 
