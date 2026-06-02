@@ -216,9 +216,9 @@ height="170"/>
   <a href="mailto:vishalsnaik27@gmail.com">
     <img src="https://img.shields.io/badge/Email-0f2027?style=for-the-badge&logo=gmail&logoColor=00F7FF"/>
   </a>
-  <a href="https://leetcode.com/u/Vishal_S_Naik/">
+  <!-- <a href="https://leetcode.com/u/Vishal_S_Naik/">
     <img src="https://img.shields.io/badge/LeetCode-0f2027?style=for-the-badge&logo=leetcode&logoColor=00F7FF"/>
-  </a>
+  </a> -->
 </p>
 
 ---
