@@ -35,9 +35,11 @@
 ---
 
 
-## `> whoami`
+## `◈ INITIALIZE PROFILE`
 
-<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<table>
+<tr>
+<td width="60%" valign="top">
 
 ```python
 class TheVish:
@@ -72,9 +74,76 @@ class TheVish:
         return "Let's build something intelligent. 🚀"
 ```
 
-<br clear="right"/>
+</td>
+<td width="40%" align="center" valign="middle">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300"/>
+</td>
+</tr>
+</table>
 
 ---
+
+<br/>
+
+## `◈ ABOUT ME`
+
+<div align="center">
+
+```
+  ┌───────────────────────────────────────────────────────────────────────────────────┐
+  │                                                                                   │
+  │     I'm an Information Science & Engineering student with a deep obsession        │
+  │     for building things that are intelligent, scalable, and actually useful.      │
+  │                                                                                   │
+  │     I don't just write code — I architect systems. Whether it's an AI that        │
+  │     diagnoses symptoms, a voice engine that controls your files, or a             │
+  │     platform that teaches you by making you teach — I build with purpose.         │
+  │                                                                                   │
+  │     My workflow lives at the intersection of AI, backend engineering, and         │
+  │     real-world problem solving. I care about clean architecture, meaningful       │
+  │     products, and systems that hold up under pressure.                            │
+  │                                                                                   │
+  │     Currently in my engineering degree, juggling coursework and building          │
+  │     production-grade projects simultaneously — because waiting to "be ready"      │
+   │     was never part of the plan.                                                   │ 
+  │                                                                                   │
+  └───────────────────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="200">
+<br/>
+<b>🎯 &nbsp; Approach</b><br/><br/>
+<sub>Systems thinking first.<br/>Code second.</sub>
+<br/><br/>
+</td>
+<td align="center" width="200">
+<br/>
+<b>🔥 &nbsp; Drive</b><br/><br/>
+<sub>Obsessed with building<br/>what doesn't exist yet.</sub>
+<br/><br/>
+</td>
+<td align="center" width="200">
+<br/>
+<b>🧠 &nbsp; Strength</b><br/><br/>
+<sub>Turning complex problems<br/>into clean architecture.</sub>
+<br/><br/>
+</td>
+<td align="center" width="200">
+<br/>
+<b>📡 &nbsp; Mode</b><br/><br/>
+<sub>Always building.<br/>Always learning.</sub>
+<br/><br/>
+</td>
+</tr>
+</table>
+
+---
+
+<br/>
 
 ## `◈ TECH ARSENAL`
 
@@ -90,6 +159,7 @@ class TheVish:
  ║  DEPLOYMENT    Vercel  ·  Netlify  ·  Render                                ║
  ╚═════════════════════════════════════════════════════════════════════════════╝
 ```
+<br/>
 
 <!-- ── LANGUAGES ─────────────────────────────────────────────── -->
 
