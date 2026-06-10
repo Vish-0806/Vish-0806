@@ -14,13 +14,13 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Vish-0806&style=for-the-badge&color=00F7FF&labelColor=0d1117&label=PROFILE+VIEWS"/>
+[![Profile Views](https://komarev.com/ghpvc/?username=Vish-0806&style=for-the-badge&color=0d1117&labelColor=00F7FF&label=SCANS)](https://github.com/Vish-0806)
 &nbsp;
-<img src="https://img.shields.io/github/followers/Vish-0806?style=for-the-badge&color=00F7FF&labelColor=0d1117&label=FOLLOWERS"/>
+[![Followers](https://img.shields.io/badge/NETWORK-GITHUB-00F7FF?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/Vish-0806?tab=followers)
 &nbsp;
-<img src="https://img.shields.io/badge/STATUS-BUILDING-00F7FF?style=for-the-badge&labelColor=0d1117"/>
+![Building](https://img.shields.io/badge/◈_ONLINE-ACTIVELY_BUILDING-00F7FF?style=for-the-badge&labelColor=0d1117)
 &nbsp;
-<img src="https://img.shields.io/badge/OPEN%20TO-OPPORTUNITIES-00FF88?style=for-the-badge&labelColor=0d1117"/>
+![Open](https://img.shields.io/badge/◈_MODE-OPEN_TO_WORK-00FF88?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
@@ -603,9 +603,8 @@ EXPERIMENTS  [ 11 complete · more incoming ]
 ## `◈ ACHIEVEMENT RACK`
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Vish-0806&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8&rank=SSS,SS,S,AAA,AA,A,B"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Vish-0806&theme=darkhub&no-frame=true&column=6&margin-w=10&margin-h=10"/>
 </div>
-
 ---
 
 ## `◈ OPEN CHANNEL`
