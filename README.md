@@ -252,234 +252,328 @@ class TheVish:
 ---
 
 <br/>
----
 
-## 🚀 `./projects --active --all`
+## `◈ MISSION CONTROL`
 
+<div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+</div>
 
 <br/>
 
-### 🧬 CodeDNA &nbsp;—&nbsp; *Discover the DNA of Your Software*
+<!-- ═══════════ PROJECT 01 ═══════════ -->
 
-<img align="right" width="260" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/>
-
-![Status](https://img.shields.io/badge/⚙_STATUS-IN_DEVELOPMENT-orange?style=flat-square&labelColor=0d1117)
-![Type](https://img.shields.io/badge/🧬_TYPE-AI_DEV_TOOL-00F7FF?style=flat-square&labelColor=0d1117)
-
-> *AI coding assistants help you build. **CodeDNA** helps you understand.*
-
-```text
-MISSION
-──────────────────────────────────────────────────────
-  Problem  → Devs build with AI but can't explain their own code
-  Solution → Analyzes repos → turns them into living knowledge
-  Impact   → Bridges the gap between building and understanding
-────────────────────────────────────────────────────────────────
-CORE MODULES
-  ├── 📖  Repository Documentary   → Commit history as story chapters
-  ├── 🧠  Commit Intelligence      → Why this change? What did it fix?
-  ├── 🏗️   Architecture Visualizer → Auto-generated diagrams + dep maps
-  ├── 🎓  AI Mentor Mode           → Learn using YOUR repo as curriculum
-  ├── 🎤  Viva & Interview Prep    → Repo-specific Q&A training
-  └── 📊  Understanding Score      → Measure your own project comprehension
-```
-
-[![View Repo](https://img.shields.io/badge/GitHub-CodeDNA-0d1117?style=for-the-badge&logo=github&logoColor=00F7FF)](https://github.com/Vish-0806/CodeDNA)
-
-<br clear="right"/>
-
----
-
-### 🩺 MediConnect &nbsp;—&nbsp; *AI-Powered Healthcare Platform*
-
-
-![Status](https://img.shields.io/badge/⚙_STATUS-IN_PROGRESS-orange?style=flat-square&labelColor=0d1117)
-![Stack](https://img.shields.io/badge/STACK-FastAPI_+_React-00F7FF?style=flat-square&labelColor=0d1117)
-
-> *Preliminary AI diagnosis meets intelligent doctor connectivity — in one platform.*
-
-```text
-CAPABILITIES
-──────────────────────────────────────────────────
-  ✅  Symptom-Based AI Diagnosis    (spaCy + Groq NLP)
-  ✅  Doctor & Hospital Discovery
-  ✅  Appointment Booking System
-  ✅  Patient History Tracking
-  ✅  Health Result Dashboard
-  ✅  Secure User Authentication
-────────────────────────────────────────────────────────────────
-ARCHITECTURE
-  Backend   : FastAPI (Python)  │  Frontend : React + Tailwind CSS
-  AI Engine : spaCy + Groq API  │  Database : PostgreSQL
-```
-
-[![View Repo](https://img.shields.io/badge/GitHub-MediConnect-0d1117?style=for-the-badge&logo=github&logoColor=00F7FF)](https://github.com/Vish-0806/MediConnect)
-
-<br clear="right"/>
-
----
-
-### 📄 EchoScript &nbsp;—&nbsp; *PDF → Audio Intelligence*
-
-
-![Status](https://img.shields.io/badge/🟢_STATUS-LIVE-00FF88?style=flat-square&labelColor=0d1117)
-![Hosted](https://img.shields.io/badge/☁_HOSTED-RENDER-00F7FF?style=flat-square&labelColor=0d1117)
-
-> *Upload any PDF — get back an audiobook in your language.*
-
-```text
-PERFORMANCE ────────────────────────────────────────────────────
-  1–5 pages    →   5 – 15  sec
-  6–20 pages   →  15 – 45  sec
-  20–50 pages  →  45 – 120 sec
-  50+ pages    →   2 – 5   min
-─────────────────────────────────────────────────────────────────
-LANGUAGES   : English │ Hindi │ Spanish │ Kannada
-TTS ENGINE  : edge-tts (Neural Voices)
-PROCESSING  : Parallel chunked synthesis pipeline
-OUTPUT      : Downloadable MP3 with full metadata
-```
-
-[![Live Demo](https://img.shields.io/badge/🔴_LIVE-echoscript.onrender.com-00FF88?style=for-the-badge&labelColor=0d1117)](https://echoscript-pdf-to-audio-translator.onrender.com)
-[![View Repo](https://img.shields.io/badge/GitHub-EchoScript-0d1117?style=for-the-badge&logo=github&logoColor=00F7FF)](https://github.com/Vish-0806/EchoScript_PDF_to_Audio_Translator)
-
-<br clear="right"/>
-
----
-
-### 🎭 Curio AI &nbsp;—&nbsp; *Role-Reversal Learning Platform*
-
-
-![Status](https://img.shields.io/badge/🟢_STATUS-DEPLOYED-00FF88?style=flat-square&labelColor=0d1117)
-![Method](https://img.shields.io/badge/📚_FEYNMAN-TECHNIQUE-00F7FF?style=flat-square&labelColor=0d1117)
-
-> *Don't learn from AI — teach it. That's the deepest form of learning.*
-
-```text
-THE FEYNMAN ENGINE ──────────────────────────────────────────────
-  You explain → AI asks probing questions
-  AI spots gaps → You refine your explanation
-  AI evaluates depth → Learning report generated
-─────────────────────────────────────────────────────────────────
-API SURFACE
-  POST  /api/session/create  →  Start a teaching session
-  POST  /api/chat            →  Send your teaching message
-  POST  /api/evaluate        →  Score your understanding
-  POST  /api/report          →  Get gaps + recommendations
-```
-
-[![Live Demo](https://img.shields.io/badge/🔴_LIVE-curio--ai.vercel.app-00FF88?style=for-the-badge&labelColor=0d1117)](https://curio-ai-role-reversal-learning-ai.vercel.app)
-[![View Repo](https://img.shields.io/badge/GitHub-Curio_AI-0d1117?style=for-the-badge&logo=github&logoColor=00F7FF)](https://github.com/Vish-0806/Curio_AI-Role-Reversal-Learning-AI)
-
-<br clear="right"/>
-
----
-
-### 🔬 CircuitSphere &nbsp;—&nbsp; *Virtual Physics Lab Simulator*
-
-
-![Status](https://img.shields.io/badge/🟢_STATUS-ACTIVE-00FF88?style=flat-square&labelColor=0d1117)
-![Count](https://img.shields.io/badge/🔬_EXPERIMENTS-11_DONE-00F7FF?style=flat-square&labelColor=0d1117)
-
-> *A complete virtual physics lab — no equipment needed, just a browser.*
-
-```text
-EXPERIMENT MODULES ──────────────────────────────────────────────
-  ⚡  LCR Circuits – Forced Oscillations
-  🌈  Diffraction Grating
-  🔬  Planck's Constant Determination
-  💡  Photodiode Characteristics
-  📦  Black Box Component Identification
-  ⚛️  Fermi Energy of Metals
-  🔭  Numerical Aperture of Optical Fiber
-  🌡️  Energy Gap of Semiconductor
-  🔋  Dielectric Constant (RC Circuit)
-  📡  Bending Loss in Optical Fiber
-  🔌  BJT Transistor Characteristics
-──────────────────────────────────────────────────────────────────
-STACK    : Flask + JavaScript + Chart.js
-FEATURES : Interactive sliders │ Real-time graphs │ Auto-calculation
-```
-
-[![View Repo](https://img.shields.io/badge/GitHub-CircuitSphere-0d1117?style=for-the-badge&logo=github&logoColor=00F7FF)](https://github.com/Vish-0806/virtual-physics-lab)
-
-<br clear="right"/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
----
-
-## 📊 SYSTEM ANALYTICS
-
-<p align="center">
-<table align="center">
+<table>
 <tr>
-<td align="center">
+<td width="65%">
 
-<img src="https://streak-stats.demolab.com?user=Vish-0806&theme=tokyonight&hide_border=true&cache_seconds=60" height="160"/> 
+### `[01]` 🧬 &nbsp; CodeDNA
+#### *Discover the DNA of your software*
+
+![Status](https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-FF8C00?style=flat-square&labelColor=0d1117)
+![Type](https://img.shields.io/badge/TYPE-AI_DEV_TOOL-00F7FF?style=flat-square&labelColor=0d1117)
+![Lang](https://img.shields.io/badge/LANG-Python_+_React-7DF9FF?style=flat-square&labelColor=0d1117)
+
+> *AI tools help you build code. CodeDNA helps you truly understand it.*
+
+```
+MODULES
+ ├─ 📖  Repository Documentary   → commit history as story chapters
+ ├─ 🧠  Commit Intelligence      → why this? what broke? what changed?
+ ├─ 🏗️  Architecture Visualizer  → auto-generate diagrams + dep maps
+ ├─ 🎓  AI Mentor Mode           → learn from YOUR own codebase
+ ├─ 🎤  Viva & Interview Prep    → repo-specific Q&A training
+ └─ 📊  Understanding Score      → measure your own comprehension
+```
+
+[![Repo](https://img.shields.io/badge/◈_VIEW_REPO-CodeDNA-0d1117?style=for-the-badge&logo=github&logoColor=00F7FF)](https://github.com/Vish-0806/CodeDNA)
 
 </td>
+<td width="35%" align="center">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="260"/>
+</td>
+</tr>
+</table>
 
-<td align="center">
+<br/>
 
-<img
-src="https://github-readme-stats-two-sigma-31.vercel.app/api/top-langs/?username=Vish-0806&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=60"
-height="170"/>
+<!-- ═══════════ PROJECT 02 ═══════════ -->
+
+<table>
+<tr>
+<td width="35%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="260"/>
+</td>
+<td width="65%">
+
+### `[02]` 🩺 &nbsp; MediConnect
+#### *AI-Powered Healthcare Platform*
+
+![Status](https://img.shields.io/badge/STATUS-IN_PROGRESS-FF8C00?style=flat-square&labelColor=0d1117)
+![Stack](https://img.shields.io/badge/STACK-FastAPI_+_React-00F7FF?style=flat-square&labelColor=0d1117)
+![AI](https://img.shields.io/badge/AI-spaCy_+_Groq-7DF9FF?style=flat-square&labelColor=0d1117)
+
+> *Preliminary AI diagnosis + intelligent doctor connectivity in one platform.*
+
+```
+FEATURES
+ ✅  Symptom-Based AI Diagnosis    (spaCy + Groq NLP)
+ ✅  Smart Doctor & Hospital Discovery
+ ✅  Appointment Booking System
+ ✅  Patient History Tracking
+ ✅  Health Result Dashboard
+ ✅  Secure Auth (Login / Signup)
+ ─────────────────────────────────────────
+ Backend : FastAPI + PostgreSQL
+ Frontend: React + Tailwind CSS
+```
+
+[![Repo](https://img.shields.io/badge/◈_VIEW_REPO-MediConnect-0d1117?style=for-the-badge&logo=github&logoColor=00F7FF)](https://github.com/Vish-0806/MediConnect)
 
 </td>
 </tr>
 </table>
-</p>
 
----
+<br/>
 
-## 📈 NEURAL ACTIVITY GRAPH
+<!-- ═══════════ PROJECT 03 ═══════════ -->
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vish-0806&theme=react-dark&bg_color=0f2027&color=00F7FF&line=00F7FF&point=ffffff&hide_border=true"/>
-</p>
+<table>
+<tr>
+<td width="65%">
 
----
+### `[03]` 🎙️ &nbsp; Auralis
+#### *Voice-Controlled File Manager*
 
-## 🐍 SYSTEM EVOLUTION TRACKER
+![Status](https://img.shields.io/badge/STATUS-IN_PROGRESS-FF8C00?style=flat-square&labelColor=0d1117)
+![Stack](https://img.shields.io/badge/STACK-FastAPI_+_Vite_+_React-00F7FF?style=flat-square&labelColor=0d1117)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Vish-0806/Vish-0806/output/github-contribution-grid-snake.svg" />
-</p>
+> *Your entire filesystem, controlled by nothing but your voice.*
 
+```
+PIPELINE
+ Speech → Wake Word → NLP Parser → Intent Engine
+       → Entity Extractor → File Engine → Voice Feedback
 
----
+OPS    create │ delete │ rename │ move │ find │ open
 
-## 🌐 NETWORK LINKS
+DEMO
+  "Create a folder called notes in documents"
+  → { action: "create_folder", target: "notes", location: "documents" }
 
-<p align="center">
-  <a href="https://instagram.com/vishal_naik_2712">
-    <img src="https://img.shields.io/badge/Instagram-0f2027?style=for-the-badge&logo=instagram&logoColor=00F7FF"/>
-  </a>
-  <a href="https://www.linkedin.com/in/vishal-s-naik-b511533a8/">
-    <img src="https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
-  </a>
-  <a href="mailto:vishalsnaik27@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0f2027?style=for-the-badge&logo=gmail&logoColor=00F7FF"/>
-  </a>
-  <!-- <a href="https://leetcode.com/u/Vishal_S_Naik/">
-    <img src="https://img.shields.io/badge/LeetCode-0f2027?style=for-the-badge&logo=leetcode&logoColor=00F7FF"/>
-  </a> -->
-</p>
-
----
-
-## ⚡ CORE DIRECTIVE
-
-```text
-> Build systems that think
-> Write code that scales
-> Never stay average
+  "Find report.pdf"
+  → { action: "find", target: "report.pdf" }
 ```
 
+[![Repo](https://img.shields.io/badge/◈_VIEW_REPO-Auralis-0d1117?style=for-the-badge&logo=github&logoColor=00F7FF)](https://github.com/Vish-0806/Auralis-voice-file-manager)
+
+</td>
+<td width="35%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="260"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════ PROJECT 04 ═══════════ -->
+
+<table>
+<tr>
+<td width="35%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="260"/>
+</td>
+<td width="65%">
+
+### `[04]` 📄 &nbsp; EchoScript
+#### *PDF → Audio Intelligence*
+
+![Status](https://img.shields.io/badge/🟢_STATUS-LIVE-00FF88?style=flat-square&labelColor=0d1117)
+![Host](https://img.shields.io/badge/☁_HOSTED-RENDER-00F7FF?style=flat-square&labelColor=0d1117)
+![TTS](https://img.shields.io/badge/TTS-edge--tts_Neural-7DF9FF?style=flat-square&labelColor=0d1117)
+
+> *Upload any PDF. Get back an audiobook in your language.*
+
+```
+PERFORMANCE
+ 1–5 pages    →   5–15  sec    Languages : EN │ HI │ ES │ KN
+ 6–20 pages   →  15–45  sec    TTS Engine: edge-tts  (Neural)
+ 20–50 pages  →  45–120 sec    Pipeline  : Parallel chunk synthesis
+ 50+ pages    →   2–5   min    Output    : Downloadable MP3
+```
+
+[![Live](https://img.shields.io/badge/🔴_LIVE_APP-echoscript.onrender.com-00FF88?style=for-the-badge&labelColor=0d1117)](https://echoscript-pdf-to-audio-translator.onrender.com)
+[![Repo](https://img.shields.io/badge/◈_VIEW_REPO-EchoScript-0d1117?style=for-the-badge&logo=github&logoColor=00F7FF)](https://github.com/Vish-0806/EchoScript_PDF_to_Audio_Translator)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════ PROJECT 05 ═══════════ -->
+
+<table>
+<tr>
+<td width="65%">
+
+### `[05]` 🎭 &nbsp; Curio AI
+#### *Role-Reversal Learning Platform*
+
+![Status](https://img.shields.io/badge/🟢_STATUS-DEPLOYED-00FF88?style=flat-square&labelColor=0d1117)
+![Method](https://img.shields.io/badge/BASIS-FEYNMAN_TECHNIQUE-00F7FF?style=flat-square&labelColor=0d1117)
+![Effect](https://img.shields.io/badge/EFFECT-PROTÉGÉ-7DF9FF?style=flat-square&labelColor=0d1117)
+
+> *Don't learn from AI — teach it. Teaching is the deepest form of learning.*
+
+```
+FEYNMAN LOOP
+ You explain a topic
+   → AI plays curious student, asks sharp questions
+   → AI challenges gaps in your logic
+   → AI evaluates understanding depth
+   → You receive a personalised learning report
+
+API  /session/create  /chat  /evaluate  /report
+```
+
+[![Live](https://img.shields.io/badge/🔴_LIVE_APP-curio--ai.vercel.app-00FF88?style=for-the-badge&labelColor=0d1117)](https://curio-ai-role-reversal-learning-ai.vercel.app)
+[![Repo](https://img.shields.io/badge/◈_VIEW_REPO-Curio_AI-0d1117?style=for-the-badge&logo=github&logoColor=00F7FF)](https://github.com/Vish-0806/Curio_AI-Role-Reversal-Learning-AI)
+
+</td>
+<td width="35%" align="center">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="260"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════ PROJECT 06 ═══════════ -->
+
+<table>
+<tr>
+<td width="35%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="260"/>
+</td>
+<td width="65%">
+
+### `[06]` 🔬 &nbsp; CircuitSphere
+#### *Virtual Physics Lab Simulator*
+
+![Status](https://img.shields.io/badge/🟢_STATUS-ACTIVE-00FF88?style=flat-square&labelColor=0d1117)
+![Done](https://img.shields.io/badge/EXPERIMENTS-11_COMPLETE-00F7FF?style=flat-square&labelColor=0d1117)
+![Stack](https://img.shields.io/badge/STACK-Flask_+_JS_+_Chart.js-7DF9FF?style=flat-square&labelColor=0d1117)
+
+> *A complete undergraduate physics lab — no equipment, just your browser.*
+
+```
+EXPERIMENTS  [ 11 complete · more incoming ]
+ ⚡ LCR Circuits       🌈 Diffraction Grating
+ 🔬 Planck's Constant  💡 Photodiode Characteristics
+ 📦 Black Box ID       ⚛️  Fermi Energy
+ 🔭 Numerical Aperture 🌡️  Energy Gap (Semiconductor)
+ 🔋 Dielectric Const.  📡 Bending Loss (Optical Fiber)
+ 🔌 BJT Transistor Characteristics
+```
+
+[![Repo](https://img.shields.io/badge/◈_VIEW_REPO-CircuitSphere-0d1117?style=for-the-badge&logo=github&logoColor=00F7FF)](https://github.com/Vish-0806/virtual-physics-lab)
+
+</td>
+</tr>
+</table>
+
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:00F7FF&height=120&section=footer"/>
-</p>
+<br/>
+
+## `◈ SYSTEM ANALYTICS`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Vish-0806&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9&ring_color=00F7FF&include_all_commits=true&count_private=true" height="175"/>
+&nbsp;&nbsp;
+<img src="https://streak-stats.demolab.com?user=Vish-0806&theme=tokyonight&hide_border=true&background=0d1117&fire=00F7FF&ring=00F7FF&currStreakLabel=00F7FF&sideLabels=c9d1d9&dates=555555" height="175"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vish-0806&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=c9d1d9&cache_seconds=60" height="220"/>
+
+</div>
+
+---
+
+## `◈ NEURAL ACTIVITY`
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vish-0806&theme=react-dark&bg_color=0d1117&color=00F7FF&line=00F7FF&point=ffffff&area=true&area_color=001a2e&hide_border=true" width="100%"/>
+</div>
+
+---
+
+## `◈ CONTRIBUTION GRID`
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Vish-0806/Vish-0806/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+---
+
+## `◈ ACHIEVEMENT RACK`
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Vish-0806&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8&rank=SSS,SS,S,AAA,AA,A,B"/>
+</div>
+
+---
+
+## `◈ OPEN CHANNEL`
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/vishal-s-naik-b511533a8/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
+</a>
+&nbsp;
+<a href="https://instagram.com/vishal_naik_2712">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117"/>
+</a>
+&nbsp;
+<a href="mailto:vishalsnaik27@gmail.com">
+<img src="https://img.shields.io/badge/Email-Reach_Out-00F7FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
+</a>
+&nbsp;
+<a href="https://github.com/Vish-0806">
+<img src="https://img.shields.io/badge/GitHub-Follow-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<br/>
+
+```
+╔════════════════════════════════════════════════════════════╗
+║                                                            ║
+║      ██████╗ ██╗██████╗ ███████╗ ██████╗████████╗          ║
+║      ██╔══██╗██║██╔══██╗██╔════╝██╔════╝╚══██╔══╝          ║
+║      ██║  ██║██║██████╔╝█████╗  ██║        ██║             ║
+║      ██║  ██║██║██╔══██╗██╔══╝  ██║        ██║             ║
+║      ██████╔╝██║██║  ██║███████╗╚██████╗   ██║             ║
+║      ╚═════╝ ╚═╝╚═╝  ╚═╝╚══════╝ ╚═════╝   ╚═╝             ║
+║                                                            ║
+║    > Build systems that think                              ║
+║    > Write code that scales                                ║
+║    > Never stay average                                    ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:001a33,70:0d1117,100:00F7FF&height=150&section=footer&text=Thanks+for+visiting+—+let%27s+build+something+great&fontSize=15&fontColor=00F7FF&fontAlignY=65&animation=twinkling"/>
+
+</div>
