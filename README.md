@@ -37,7 +37,7 @@
 
 ## `◈ INITIALIZE PROFILE`
 
-<table>
+<table align = "center">
 <tr>
 <td width="100%" valign="top">
 
