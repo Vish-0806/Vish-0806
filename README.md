@@ -39,7 +39,7 @@
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="100%" valign="top">
 
 ```python
 class TheVish:
@@ -47,7 +47,7 @@ class TheVish:
         self.name        = "Vishal S Naik"
         self.degree      = "B.E. Information Science & Engineering"
         self.role        = "Software Engineer [ AI + Systems + Web ]"
-        self.location    = "India 🇮🇳"
+        self.location    = "Bengaluru, India"
         self.contact     = "vishalsnaik27@gmail.com"
         self.goal        = "Intelligent systems that solve real problems."
 
@@ -74,9 +74,6 @@ class TheVish:
         return "Let's build something intelligent. 🚀"
 ```
 
-</td>
-<td width="40%" align="center" valign="middle">
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300"/>
 </td>
 </tr>
 </table>
