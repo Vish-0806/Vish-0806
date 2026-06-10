@@ -80,6 +80,17 @@ class TheVish:
 
 <div align="center">
 
+```
+ ╔═════════════════════════════════════════════════════════════════════════════╗
+ ║  LANGUAGES     Python  ·  Java  ·  C  ·  JavaScript  ·  TypeScript          ║
+ ║  FRONTEND      React  ·  Tailwind  ·  Vite  ·  HTML5  ·  CSS3               ║
+ ║  BACKEND       FastAPI  ·  Flask  ·  Node.js  ·  Express                    ║
+ ║  DATABASES     PostgreSQL  ·  MongoDB  ·  MySQL  ·  Firebase                ║
+ ║  DEV TOOLS     Git  ·  GitHub  ·  VSCode  ·  Docker  ·  Postman             ║
+ ║  DEPLOYMENT    Vercel  ·  Netlify  ·  Render                                ║
+ ╚═════════════════════════════════════════════════════════════════════════════╝
+```
+
 <!-- ── LANGUAGES ─────────────────────────────────────────────── -->
 
 <table>
