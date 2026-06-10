@@ -6,7 +6,11 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=700&color=00F7FF&center=true&vCenter=true&width=650&lines=Designing+systems+that+think...;Information+Science+%26+Engineering+%40+B.E.;AI+%7C+Backend+%7C+Real-World+Impact;Building+what+doesn%27t+exist+yet+%F0%9F%9A%80;Never+stay+average.;Precision+%7C+Logic+%7C+Execution)](https://github.com/Vish-0806)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2600&pause=800&color=00F7FF&center=true&vCenter=true&multiline=false&width=700&lines=%5B+Designing+systems+that+think...+%5D;%5B+LOADING%3A+AI+%2B+Systems+%2B+Web+Engineer+%5D;%5B+Information+Science+%26+Engineering+%40+B.E.%5D;%5B+STATUS%3A+Building+what+doesn%27t+exist+yet+%5D;%5B+DIRECTIVE%3A+Never.+Stay.+Average.+%5D;%5B+Precision+%7C+Logic+%7C+Execution.%5D)](https://github.com/Vish-0806)
+
+</div>
 
 <br/>
 
@@ -20,116 +24,234 @@
 
 </div>
 
+<br/>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
+</div>
+
+<br/>
+
 ---
 
 
 ## `> whoami`
 
-<img align="right" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
-
-```yaml
-SYSTEM_PROFILE:
-  Name        : Vishal S Naik
-  Degree      : B.E. Information Science & Engineering
-  Role        : Software Engineer [ AI + Web Systems ]
-  Location    : India
-  Focus       : Intelligent, Scalable System Design
-  Superpower  : Turning complex ideas into clean code
-  Mode        : Building • Learning • Scaling
-  Contact     : vishalsnaik27@gmail.com
-```
-
----
+<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ```python
-class Vishal:
+class TheVish:
     def __init__(self):
-        self.focus       = ["AI-Powered Apps", "Backend Systems", "Real-World Problem Solving"]
-        self.currently   = ["MediConnect", "CircuitSphere", "Auralis", "CodeDNA"]
-        self.philosophy  = "Build systems that think. Write code that scales."
-        self.mindset     = "Never stay average."
+        self.name        = "Vishal S Naik"
+        self.degree      = "B.E. Information Science & Engineering"
+        self.role        = "Software Engineer [ AI + Systems + Web ]"
+        self.location    = "India 🇮🇳"
+        self.contact     = "vishalsnaik27@gmail.com"
+        self.goal        = "Intelligent systems that solve real problems."
+
+        self.focus       = [
+            "AI-Powered Applications",
+            "Backend System Architecture",
+            "Intelligent + Scalable Systems",
+        ]
+
+        self.missions    = [
+            "🧬 CodeDNA",
+            "🩺 MediConnect",
+            "🎙️  Auralis",
+            "🔬 CircuitSphere",
+        ]
+
+        self.philosophy  = "Build systems that think."
+        self.directive   = "Never stay average."
+
+    def status(self):
+        return "⚡ Online · Building · Learning · Scaling"
 
     def greet(self):
-        return "Let's build something intelligent. 🚀
-                Never stay average 🔥"
+        return "Let's build something intelligent. 🚀"
 ```
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ `./tech_stack.sh --icons`
+## `◈ TECH ARSENAL`
 
 <div align="center">
 
-### 💻 Languages
+<!-- ── LANGUAGES ─────────────────────────────────────────────── -->
 
-<img src="https://skillicons.dev/icons?i=python,java,c,js,ts&theme=dark&perline=5"/>
+<table>
+<tr>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=python&theme=dark" width="52"/><br/>
+<sub><b>Python</b></sub>
+</td>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=java&theme=dark" width="52"/><br/>
+<sub><b>Java</b></sub>
+</td>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=c&theme=dark" width="52"/><br/>
+<sub><b>C</b></sub>
+</td>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=js&theme=dark" width="52"/><br/>
+<sub><b>JavaScript</b></sub>
+</td>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=ts&theme=dark" width="52"/><br/>
+<sub><b>TypeScript</b></sub>
+</td>
+</tr>
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00F7FF)
-![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=00F7FF)
-![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=00F7FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=00F7FF)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=00F7FF)
+<tr>
+<td align="center"><sub>💻 Language</sub></td>
+<td align="center"><sub>💻 Language</sub></td>
+<td align="center"><sub>💻 Language</sub></td>
+<td align="center"><sub>💻 Language</sub></td>
+<td align="center"><sub>💻 Language</sub></td>
+</tr>
+</table>
 
----
+<table>
+<tr>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=react&theme=dark" width="52"/><br/>
+<sub><b>React</b></sub>
+</td>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="52"/><br/>
+<sub><b>Tailwind CSS</b></sub>
+</td>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=vite&theme=dark" width="52"/><br/>
+<sub><b>Vite</b></sub>
+</td>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=html&theme=dark" width="52"/><br/>
+<sub><b>HTML5</b></sub>
+</td>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=css&theme=dark" width="52"/><br/>
+<sub><b>CSS3</b></sub>
+</td>
+</tr>
 
-### 🌐 Frontend
+<tr>
+<td align="center"><sub>🌐 Frontend</sub></td>
+<td align="center"><sub>🌐 Frontend</sub></td>
+<td align="center"><sub>🌐 Frontend</sub></td>
+<td align="center"><sub>🌐 Frontend</sub></td>
+<td align="center"><sub>🌐 Frontend</sub></td>
+</tr>
+</table>
 
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite&theme=dark&perline=5"/>
+<table>
+<tr>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="52"/><br/>
+<sub><b>FastAPI</b></sub>
+</td>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=flask&theme=dark" width="52"/><br/>
+<sub><b>Flask</b></sub>
+</td>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="52"/><br/>
+<sub><b>Node.js</b></sub>
+</td>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=express&theme=dark" width="52"/><br/>
+<sub><b>Express</b></sub>
+</td>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="52"/><br/>
+<sub><b>PostgreSQL</b></sub>
+</td>
+</tr>
 
-![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=00F7FF)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=00F7FF)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=00F7FF)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=00F7FF)
-![Vite](https://img.shields.io/badge/Vite-0d1117?style=flat-square&logo=vite&logoColor=00F7FF)
+<tr>
+<td align="center"><sub>⚙️ Backend</sub></td>
+<td align="center"><sub>⚙️ Backend</sub></td>
+<td align="center"><sub>⚙️ Backend</sub></td>
+<td align="center"><sub>⚙️ Backend</sub></td>
+<td align="center"><sub>🗄️ Database</sub></td>
+</tr>
+</table>
 
----
+<table>
+<tr>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="52"/><br/>
+<sub><b>MongoDB</b></sub>
+</td>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="52"/><br/>
+<sub><b>MySQL</b></sub>
+</td>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="52"/><br/>
+<sub><b>Firebase</b></sub>
+</td>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=git&theme=dark" width="52"/><br/>
+<sub><b>Git</b></sub>
+</td>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=docker&theme=dark" width="52"/><br/>
+<sub><b>Docker</b></sub>
+</td>
+</tr>
 
-### ⚙️ Backend & Frameworks
+<tr>
+<td align="center"><sub>🗄️ Database</sub></td>
+<td align="center"><sub>🗄️ Database</sub></td>
+<td align="center"><sub>🗄️ Database</sub></td>
+<td align="center"><sub>🛠️ DevTools</sub></td>
+<td align="center"><sub>🛠️ DevTools</sub></td>
+</tr>
+</table>
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express&theme=dark&perline=4"/>
+<table>
+<tr>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=github&theme=dark" width="52"/><br/>
+<sub><b>GitHub</b></sub>
+</td>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="52"/><br/>
+<sub><b>VS Code</b></sub>
+</td>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=postman&theme=dark" width="52"/><br/>
+<sub><b>Postman</b></sub>
+</td>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="52"/><br/>
+<sub><b>Vercel</b></sub>
+</td>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=netlify&theme=dark" width="52"/><br/>
+<sub><b>Netlify</b></sub>
+</td>
+</tr>
 
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=00F7FF)
-![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=00F7FF)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=00F7FF)
-![Express](https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=00F7FF)
-
----
-
-### 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase&theme=dark&perline=4"/>
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=00F7FF)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=00F7FF)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=00F7FF)
-![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=00F7FF)
-
----
-
-### 🛠️ Developer Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman&theme=dark&perline=5"/>
-
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=00F7FF)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=00F7FF)
-![VSCode](https://img.shields.io/badge/VSCode-0d1117?style=flat-square&logo=visualstudiocode&logoColor=00F7FF)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=00F7FF)
-![Postman](https://img.shields.io/badge/Postman-0d1117?style=flat-square&logo=postman&logoColor=00F7FF)
-
----
-
-### ☁️ Deployment
-
-<img src="https://skillicons.dev/icons?i=vercel,netlify,render&theme=dark&perline=3"/>
-
-![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=00F7FF)
-![Netlify](https://img.shields.io/badge/Netlify-0d1117?style=flat-square&logo=netlify&logoColor=00F7FF)
-![Render](https://img.shields.io/badge/Render-0d1117?style=flat-square&logo=render&logoColor=00F7FF)
+<tr>
+<td align="center"><sub>🛠️ DevTools</sub></td>
+<td align="center"><sub>🛠️ DevTools</sub></td>
+<td align="center"><sub>🛠️ DevTools</sub></td>
+<td align="center"><sub>☁️ Deploy</sub></td>
+<td align="center"><sub>☁️ Deploy</sub></td>
+</tr>
+</table>
 
 </div>
 
+---
+
+<br/>
 ---
 
 ## 🚀 `./projects --active --all`
