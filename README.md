@@ -621,11 +621,10 @@ Physical labs have constraints — equipment fails, access is limited, time runs
 
 <br/>
 
----
 
 <!-- ══ INNOVATION THEMES ══ -->
 
-<div align="center">
+<!-- <div align="center">
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════════╗
@@ -642,7 +641,7 @@ Physical labs have constraints — equipment fails, access is limited, time runs
 ╚══════════════════════════════════════════════════════════════════════════════════╝
 ```
 
-</div>
+</div> -->
 
 ---
 
@@ -683,7 +682,9 @@ Physical labs have constraints — equipment fails, access is limited, time runs
 ## `◈ ACHIEVEMENT RACK`
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Vish-0806&theme=darkhub&no-frame=true&column=6&margin-w=10&margin-h=10"/>
+<img
+src="https://github-profile-trophy.vercel.app/?username=Vish-0806&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=4"
+/>
 </div>
 
 ---
