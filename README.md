@@ -333,233 +333,316 @@ class TheVish:
 
 ## `◈ MISSION CONTROL`
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+<!-- <div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════════════════╗
+║                         SYSTEMS DASHBOARD  ·  VISH-0806                        ║
+╠═══════════════════╦═══════════════════╦═══════════════════╦══════════════════════╣
+║  TOTAL SYSTEMS    ║  LIVE IN PROD     ║  IN DEVELOPMENT   ║  DOMAINS ACTIVE      ║
+║       06          ║       02          ║       04          ║       06             ║
+╠═══════════════════╩═══════════════════╩═══════════════════╩══════════════════════╣
+║  AI · Healthcare · EdTech · Voice Interfaces · Physics Sim · Developer Tools    ║
+╚══════════════════════════════════════════════════════════════════════════════════╝
+```
+
+```
+  SYSTEM          STATUS          DOMAIN              STACK
+  ─────────────────────────────────────────────────────────────────
+  🧬 CodeDNA      ⚙  Building    AI · DevTools       Python · React
+  🩺 MediConnect  ⚙  Building    Healthcare AI       FastAPI · React
+  🎙️ Auralis       ⚙  Building    Voice Interface     FastAPI · React
+  📄 EchoScript   🟢 Live        Document AI         Python · Flask
+  🎭 Curio AI     🟢 Live        EdTech · AI         FastAPI · React
+  🔬 CircuitSphere 🟢 Active     Physics Sim         Flask · JS
+  ─────────────────────────────────────────────────────────────────
+```
+
 </div>
 
 <br/>
 
-<!-- ═══════════ PROJECT 01 ═══════════ -->
+--- -->
 
-<table>
-<tr>
-<td width="65%">
-
-### `[01]` 🧬 &nbsp; CodeDNA
-#### *Discover the DNA of your software*
-
-![Status](https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-FF8C00?style=flat-square&labelColor=0d1117)
-![Type](https://img.shields.io/badge/TYPE-AI_DEV_TOOL-00F7FF?style=flat-square&labelColor=0d1117)
-![Lang](https://img.shields.io/badge/LANG-Python_+_React-7DF9FF?style=flat-square&labelColor=0d1117)
-
-> *AI tools help you build code. CodeDNA helps you truly understand it.*
+<!-- ══════════════════════════════════════════════════════════ -->
+### 🧬 &nbsp; `CodeDNA` &nbsp; — &nbsp; *Discover the DNA of your software*
+<div align="center">
 
 ```
-MODULES
- ├─ 📖  Repository Documentary   → commit history as story chapters
- ├─ 🧠  Commit Intelligence      → why this? what broke? what changed?
- ├─ 🏗️  Architecture Visualizer  → auto-generate diagrams + dep maps
- ├─ 🎓  AI Mentor Mode           → learn from YOUR own codebase
- ├─ 🎤  Viva & Interview Prep    → repo-specific Q&A training
- └─ 📊  Understanding Score      → measure your own comprehension
+┌─────────────────────────────────────────────────────┐
+│  SYSTEM  01  ·                                      │
+│  🧬  CodeDNA                                        │
+│  "Discover the DNA of your software."               │
+└─────────────────────────────────────────────────────┘
 ```
+
+</div>
+
+![](https://img.shields.io/badge/◈_STATUS-IN_DEVELOPMENT-FF8C00?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/TYPE-AI_Dev_Tool-00F7FF?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/STACK-Python_·_React-7DF9FF?style=flat-square&labelColor=0d1117)
+
+
+AI coding tools make building software easier than ever. But a new problem has emerged — developers can build with AI, yet struggle to **explain, defend, or truly understand** what they've built. CodeDNA fixes that.
+
+It analyzes a repository — commits, architecture, file structure, evolution — and transforms it into structured, living knowledge: explanations, diagrams, mentor sessions, and interview prep, all tailored to your actual codebase.
+
+```
+  CAPABILITIES
+  ├─ 📖  Repository Documentary    →  commit history told as an evolving story
+  ├─ 🧠  Commit Intelligence       →  understand why every change was made
+  ├─ 🏗️   Architecture Visualizer  →  auto-generated diagrams + dependency maps
+  ├─ 🎓  AI Mentor Mode            →  learn from your own project, not textbooks
+  ├─ 🎤  Viva & Interview Prep     →  answer questions about your own repo
+  └─ 📊  Understanding Score       →  quantify how well you know your project
+
+  FUTURE VISION
+  └─ Team onboarding  ·  Multi-repo analysis  ·  IDE plugin  ·  API access
+```
+
+<div align="right">
 
 [![Repo](https://img.shields.io/badge/◈_VIEW_REPO-CodeDNA-0d1117?style=for-the-badge&logo=github&logoColor=00F7FF)](https://github.com/Vish-0806/CodeDNA)
 
-</td>
-<td width="35%" align="center">
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="260"/>
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
-<!-- ═══════════ PROJECT 02 ═══════════ -->
+---
 
-<table>
-<tr>
-<td width="35%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="260"/>
-</td>
-<td width="65%">
+<!-- ══════════════════════════════════════════════════════════ -->
 
-### `[02]` 🩺 &nbsp; MediConnect
-#### *AI-Powered Healthcare Platform*
-
-![Status](https://img.shields.io/badge/STATUS-IN_PROGRESS-FF8C00?style=flat-square&labelColor=0d1117)
-![Stack](https://img.shields.io/badge/STACK-FastAPI_+_React-00F7FF?style=flat-square&labelColor=0d1117)
-![AI](https://img.shields.io/badge/AI-spaCy_+_Groq-7DF9FF?style=flat-square&labelColor=0d1117)
-
-> *Preliminary AI diagnosis + intelligent doctor connectivity in one platform.*
+### 🩺 &nbsp; `MediConnect` &nbsp; — &nbsp; *AI-Powered Healthcare Platform*
+<div align="center">
 
 ```
-FEATURES
- ✅  Symptom-Based AI Diagnosis    (spaCy + Groq NLP)
- ✅  Smart Doctor & Hospital Discovery
- ✅  Appointment Booking System
- ✅  Patient History Tracking
- ✅  Health Result Dashboard
- ✅  Secure Auth (Login / Signup)
- ─────────────────────────────────────────
- Backend : FastAPI + PostgreSQL
- Frontend: React + Tailwind CSS
+┌─────────────────────────────────────────────────────┐
+│  SYSTEM  02                                         │
+│  🩺  MediConnect                                    │
+│  "AI-powered healthcare navigation."                │
+└─────────────────────────────────────────────────────┘
 ```
+
+</div>
+
+![](https://img.shields.io/badge/◈_STATUS-IN_PROGRESS-FF8C00?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/STACK-FastAPI_·_React_·_PostgreSQL-00F7FF?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/AI-spaCy_·_Groq-7DF9FF?style=flat-square&labelColor=0d1117)
+
+Getting a meaningful first health opinion before a doctor visit takes hours. MediConnect compresses that process to seconds — describe your symptoms, get AI-powered preliminary analysis, and connect with the right doctor instantly.
+
+```
+  CAPABILITIES
+  ├─ 🔍  Symptom Analysis          →  NLP-powered diagnosis engine (spaCy + Groq)
+  ├─ 🏥  Doctor & Hospital Match   →  smart discovery based on diagnosis output
+  ├─ 📅  Appointment Booking       →  end-to-end scheduling in one flow
+  ├─ 📁  Patient History           →  persistent records per user
+  └─ 🔐  Secure Auth               →  full login / signup with session management
+
+  FUTURE VISION
+  └─ Specialist referrals  ·  Real-time doctor chat  ·  Lab result upload
+```
+
+<div align="right">
 
 [![Repo](https://img.shields.io/badge/◈_VIEW_REPO-MediConnect-0d1117?style=for-the-badge&logo=github&logoColor=00F7FF)](https://github.com/Vish-0806/MediConnect)
 
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
-<!-- ═══════════ PROJECT 03 ═══════════ -->
+---
 
-<table>
-<tr>
-<td width="65%">
+<!-- ══════════════════════════════════════════════════════════ -->
+### 🎙️ &nbsp; `Auralis` &nbsp; — &nbsp; *Voice-Controlled File Manager*
 
-### `[03]` 🎙️ &nbsp; Auralis
-#### *Voice-Controlled File Manager*
-
-![Status](https://img.shields.io/badge/STATUS-IN_PROGRESS-FF8C00?style=flat-square&labelColor=0d1117)
-![Stack](https://img.shields.io/badge/STACK-FastAPI_+_Vite_+_React-00F7FF?style=flat-square&labelColor=0d1117)
-
-> *Your entire filesystem, controlled by nothing but your voice.*
+<div align="center">
 
 ```
-PIPELINE
- Speech → Wake Word → NLP Parser → Intent Engine
-       → Entity Extractor → File Engine → Voice Feedback
-
-OPS    create │ delete │ rename │ move │ find │ open
-
-DEMO
-  "Create a folder called notes in documents"
-  → { action: "create_folder", target: "notes", location: "documents" }
-
-  "Find report.pdf"
-  → { action: "find", target: "report.pdf" }
+┌─────────────────────────────────────────────────────┐
+│  SYSTEM  03                                         │
+│  🎙️  Auralis                                        │
+│  "Control your filesystem with natural speech."     │
+└─────────────────────────────────────────────────────┘
 ```
+
+</div>
+
+![](https://img.shields.io/badge/◈_STATUS-IN_PROGRESS-FF8C00?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/STACK-FastAPI_·_Vite_·_React-00F7FF?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/ENGINE-NLP_Pipeline-7DF9FF?style=flat-square&labelColor=0d1117)
+
+File management has always been mouse and keyboard dependent. Auralis changes that — your voice becomes the interface. Say it, and it's done.
+
+```
+  PIPELINE
+  🎤 Speak  →  🔑 Wake Word  →  🧹 Normalize  →  🧠 Intent
+            →  🎯 Entities   →  ⚙️  Execute    →  🔊 Feedback
+
+  OPERATIONS  create · delete · rename · move · find · open
+
+  FUTURE VISION
+  └─ System-wide search  ·  Multi-step voice macros  ·  Cross-platform support
+```
+
+<div align="right">
 
 [![Repo](https://img.shields.io/badge/◈_VIEW_REPO-Auralis-0d1117?style=for-the-badge&logo=github&logoColor=00F7FF)](https://github.com/Vish-0806/Auralis-voice-file-manager)
 
-</td>
-<td width="35%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="260"/>
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
-<!-- ═══════════ PROJECT 04 ═══════════ -->
+---
 
-<table>
-<tr>
-<td width="35%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="260"/>
-</td>
-<td width="65%">
-
-### `[04]` 📄 &nbsp; EchoScript
-#### *PDF → Audio Intelligence*
-
-![Status](https://img.shields.io/badge/🟢_STATUS-LIVE-00FF88?style=flat-square&labelColor=0d1117)
-![Host](https://img.shields.io/badge/☁_HOSTED-RENDER-00F7FF?style=flat-square&labelColor=0d1117)
-![TTS](https://img.shields.io/badge/TTS-edge--tts_Neural-7DF9FF?style=flat-square&labelColor=0d1117)
-
-> *Upload any PDF. Get back an audiobook in your language.*
+<!-- ══════════════════════════════════════════════════════════ -->
+### 📄 &nbsp; `EchoScript` &nbsp; — &nbsp; *PDF → Audio Intelligence*
+<div align="center">
 
 ```
-PERFORMANCE
- 1–5 pages    →   5–15  sec    Languages : EN │ HI │ ES │ KN
- 6–20 pages   →  15–45  sec    TTS Engine: edge-tts  (Neural)
- 20–50 pages  →  45–120 sec    Pipeline  : Parallel chunk synthesis
- 50+ pages    →   2–5   min    Output    : Downloadable MP3
+┌─────────────────────────────────────────────────────┐
+│  SYSTEM  04  ·  🟢 LIVE                             │
+│  📄  EchoScript                                     │
+│  "Transform documents into multilingual audiobooks."│
+└─────────────────────────────────────────────────────┘
 ```
 
-[![Live](https://img.shields.io/badge/🔴_LIVE_APP-echoscript.onrender.com-00FF88?style=for-the-badge&labelColor=0d1117)](https://echoscript-pdf-to-audio-translator.onrender.com)
+</div>
+
+![](https://img.shields.io/badge/◈_STATUS-LIVE-00FF88?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/STACK-Python_·_Flask_·_edge--tts-00F7FF?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/HOSTED-Render-7DF9FF?style=flat-square&labelColor=0d1117)
+
+Reading dense PDFs is time-consuming. EchoScript converts any document into natural-sounding audio — with optional multilingual translation — so you can learn anywhere, anytime.
+
+```
+  PIPELINE
+  PDF  →  Extract  →  Clean  →  [ Translate ]  →  Neural TTS  →  MP3
+
+  LANGUAGES   EN · HI · ES · KN
+  SPEED       1–5 pages ≈ 5–15 sec  ·  50+ pages ≈ 2–5 min
+
+  FUTURE VISION
+  └─ More languages  ·  OCR for scanned PDFs  ·  Cloud history  ·  Voice selection
+```
+
+<div align="right">
+
+[![Live](https://img.shields.io/badge/🔴_LIVE-echoscript.onrender.com-00FF88?style=for-the-badge&labelColor=0d1117)](https://echoscript-pdf-to-audio-translator.onrender.com)
 [![Repo](https://img.shields.io/badge/◈_VIEW_REPO-EchoScript-0d1117?style=for-the-badge&logo=github&logoColor=00F7FF)](https://github.com/Vish-0806/EchoScript_PDF_to_Audio_Translator)
 
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
-<!-- ═══════════ PROJECT 05 ═══════════ -->
+---
 
-<table>
-<tr>
-<td width="65%">
-
-### `[05]` 🎭 &nbsp; Curio AI
-#### *Role-Reversal Learning Platform*
-
-![Status](https://img.shields.io/badge/🟢_STATUS-DEPLOYED-00FF88?style=flat-square&labelColor=0d1117)
-![Method](https://img.shields.io/badge/BASIS-FEYNMAN_TECHNIQUE-00F7FF?style=flat-square&labelColor=0d1117)
-![Effect](https://img.shields.io/badge/EFFECT-PROTÉGÉ-7DF9FF?style=flat-square&labelColor=0d1117)
-
-> *Don't learn from AI — teach it. Teaching is the deepest form of learning.*
+<!-- ══════════════════════════════════════════════════════════ -->
+### 🎭 &nbsp; `Curio AI` &nbsp; — &nbsp; *Role-Reversal Learning Platform*
+<div align="center">
 
 ```
-FEYNMAN LOOP
- You explain a topic
-   → AI plays curious student, asks sharp questions
-   → AI challenges gaps in your logic
-   → AI evaluates understanding depth
-   → You receive a personalised learning report
-
-API  /session/create  /chat  /evaluate  /report
+┌─────────────────────────────────────────────────────┐
+│  SYSTEM  05  ·                                      │
+│  🎭  Curio AI                                       │
+│  "Learn by teaching."                               │
+└─────────────────────────────────────────────────────┘
 ```
 
-[![Live](https://img.shields.io/badge/🔴_LIVE_APP-curio--ai.vercel.app-00FF88?style=for-the-badge&labelColor=0d1117)](https://curio-ai-role-reversal-learning-ai.vercel.app)
+</div>
+
+![](https://img.shields.io/badge/◈_STATUS-ACTIVE-00FF88?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/BASIS-Feynman_Technique-00F7FF?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/EFFECT-Protégé_Effect-7DF9FF?style=flat-square&labelColor=0d1117)
+
+Every AI tutor explains things to you. Curio flips this — **you explain to the AI**. It plays a curious student, challenges your gaps, scores your depth, and tells you exactly what you don't know yet.
+
+```
+  THE LOOP
+  You Teach  →  AI Questions  →  Gap Detected  →  You Refine  →  Score + Report
+
+  CAPABILITIES
+  ├─ Role-reversal sessions     →  you are the teacher, AI is the student
+  ├─ Dynamic gap detection      →  AI identifies what you glossed over
+  ├─ Understanding scoring      →  quantified depth of knowledge
+  └─ Personalised report        →  what to study next, and why
+
+  FUTURE VISION
+  └─ Spaced repetition  ·  Multi-topic sessions  ·  Leaderboards  ·  Streaks
+```
+
+<div align="right">
+
+
 [![Repo](https://img.shields.io/badge/◈_VIEW_REPO-Curio_AI-0d1117?style=for-the-badge&logo=github&logoColor=00F7FF)](https://github.com/Vish-0806/Curio_AI-Role-Reversal-Learning-AI)
 
-</td>
-<td width="35%" align="center">
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="260"/>
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
-<!-- ═══════════ PROJECT 06 ═══════════ -->
+---
 
-<table>
-<tr>
-<td width="35%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="260"/>
-</td>
-<td width="65%">
-
-### `[06]` 🔬 &nbsp; CircuitSphere
-#### *Virtual Physics Lab Simulator*
-
-![Status](https://img.shields.io/badge/🟢_STATUS-ACTIVE-00FF88?style=flat-square&labelColor=0d1117)
-![Done](https://img.shields.io/badge/EXPERIMENTS-11_COMPLETE-00F7FF?style=flat-square&labelColor=0d1117)
-![Stack](https://img.shields.io/badge/STACK-Flask_+_JS_+_Chart.js-7DF9FF?style=flat-square&labelColor=0d1117)
-
-> *A complete undergraduate physics lab — no equipment, just your browser.*
+<!-- ══════════════════════════════════════════════════════════ -->
+### 🔬 &nbsp; `CircuitSphere` &nbsp; — &nbsp; *Virtual Physics Lab Simulator*
+<div align="center">
 
 ```
-EXPERIMENTS  [ 11 complete · more incoming ]
- ⚡ LCR Circuits       🌈 Diffraction Grating
- 🔬 Planck's Constant  💡 Photodiode Characteristics
- 📦 Black Box ID       ⚛️  Fermi Energy
- 🔭 Numerical Aperture 🌡️  Energy Gap (Semiconductor)
- 🔋 Dielectric Const.  📡 Bending Loss (Optical Fiber)
- 🔌 BJT Transistor Characteristics
+┌─────────────────────────────────────────────────────┐
+│  SYSTEM  06  ·  🟢 ACTIVE                           │
+│  🔬  CircuitSphere                                  │
+│  "A complete physics laboratory in the browser."    │
+└─────────────────────────────────────────────────────┘
 ```
+
+</div>
+
+![](https://img.shields.io/badge/◈_STATUS-ACTIVE-00FF88?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/EXPERIMENTS-11_Complete-00F7FF?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/STACK-Flask_·_JavaScript_·_Chart.js-7DF9FF?style=flat-square&labelColor=0d1117)
+
+Physical labs have constraints — equipment fails, access is limited, time runs out. CircuitSphere removes all of that. Every experiment runs in the browser with real physics logic, interactive controls, and auto-generated results.
+
+```
+  EXPERIMENTS  [ 11 complete · expanding ]
+  ⚡ LCR Circuits          🌈 Diffraction Grating     🔬 Planck's Constant
+  💡 Photodiode Chars.     📦 Black Box Component ID  ⚛️  Fermi Energy
+  🔭 Numerical Aperture    🌡️  Energy Gap              🔋 Dielectric Constant
+  📡 Bending Loss          🔌 BJT Transistor Characteristics
+
+  FUTURE VISION
+  └─ More experiments  ·  Lab reports export  ·  AI experiment assistant
+```
+
+<div align="right">
 
 [![Repo](https://img.shields.io/badge/◈_VIEW_REPO-CircuitSphere-0d1117?style=for-the-badge&logo=github&logoColor=00F7FF)](https://github.com/Vish-0806/virtual-physics-lab)
 
-</td>
-</tr>
-</table>
+</div>
+
+<br/>
+
+---
+
+<!-- ══ INNOVATION THEMES ══ -->
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════════════════╗
+║                            ◈  INNOVATION THEMES                                ║
+╠══════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                  ║
+║   🧠  AI Understanding     Making AI explain and teach, not just generate       ║
+║   📚  Human Learning        Systems that measure and deepen real comprehension  ║
+║   🏥  Healthcare Access     Bridging the gap between patients and doctors       ║
+║   🎙️  Voice Interfaces      Natural language as the primary input layer         ║
+║   🔬  Simulation Platforms  Replacing physical constraints with digital fidelity║
+║   🧬  Knowledge Extraction  Turning raw data into structured, usable insight    ║
+║                                                                                  ║
+╚══════════════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
 
 ---
 
