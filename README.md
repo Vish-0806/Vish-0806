@@ -669,9 +669,11 @@ Physical labs have constraints — equipment fails, access is limited, time runs
 ## `◈ ACHIEVEMENT RACK`
 
 <div align="center">
+
 <img
-src="https://github-profile-trophy.vercel.app/?username=Vish-0806&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=4"
+src="https://github-readme-stats.vercel.app/api?username=Vish-0806&show_icons=true&theme=tokyonight&hide_border=true"
 />
+
 </div>
 
 ---
