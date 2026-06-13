@@ -86,26 +86,13 @@ class TheVish:
 
 <div align="center">
 
-```
-  ┌───────────────────────────────────────────────────────────────────────────────────┐
-  │                                                                                   │
-  │     I'm an Information Science & Engineering student with a deep obsession        │
-  │     for building things that are intelligent, scalable, and actually useful.      │
-  │                                                                                   │
-  │     I don't just write code — I architect systems. Whether it's an AI that        │
-  │     diagnoses symptoms, a voice engine that controls your files, or a             │
-  │     platform that teaches you by making you teach — I build with purpose.         │
-  │                                                                                   │
-  │     My workflow lives at the intersection of AI, backend engineering, and         │
-  │     real-world problem solving. I care about clean architecture, meaningful       │
-  │     products, and systems that hold up under pressure.                            │
-  │                                                                                   │
-  │     Currently in my engineering degree, juggling coursework and building          │
-  │     production-grade projects simultaneously — because waiting to "be ready"      │
-   │     was never part of the plan.                                                   │ 
-  │                                                                                   │
-  └───────────────────────────────────────────────────────────────────────────────────┘
-```
+> 🎓 &nbsp; I'm an Information Science & Engineering student with a deep obsession for building things that are intelligent, scalable, and actually useful.
+
+> ⚙️ &nbsp; I don't just write code — I architect systems. Whether it's an AI that diagnoses symptoms, a voice engine that controls your files, or a platform that teaches you by making you teach — I build with purpose.
+
+> 🧠 &nbsp; My workflow lives at the intersection of AI, backend engineering, and real-world problem solving. I care about clean architecture, meaningful products, and systems that hold up under pressure.
+
+> 🚀 &nbsp; Currently juggling coursework and building production-grade projects simultaneously — because waiting to *"be ready"* was never part of the plan.
 
 </div>
 
@@ -371,7 +358,7 @@ class TheVish:
 ```
 ┌─────────────────────────────────────────────────────┐
 │  SYSTEM  01  ·                                      │
-│  🧬  CodeDNA                                        │
+│  🧬  CodeDNA                                       │
 │  "Discover the DNA of your software."               │
 └─────────────────────────────────────────────────────┘
 ```
