@@ -60,8 +60,9 @@ class TheVish:
         self.missions    = [
             "🧬 CodeDNA",
             "🩺 MediConnect",
-            "🎙️  Auralis",
+            "🎙️ Auralis",
             "🔬 CircuitSphere",
+            "📄 EchoScript",
         ]
 
         self.philosophy  = "Build systems that think."
