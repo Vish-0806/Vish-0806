@@ -627,13 +627,15 @@ Physical labs have constraints — equipment fails, access is limited, time runs
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vish-0806&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9&ring_color=00F7FF&include_all_commits=true&count_private=true" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Vish-0806&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9&include_all_commits=true&count_private=true" height="175"/>
+
 &nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com?user=Vish-0806&theme=tokyonight&hide_border=true&background=0d1117&fire=00F7FF&ring=00F7FF&currStreakLabel=00F7FF&sideLabels=c9d1d9&dates=555555" height="175"/>
+
+<img src="https://streak-stats.demolab.com?user=Vish-0806&theme=tokyonight&hide_border=true&background=0d1117&fire=00F7FF&ring=00F7FF&currStreakLabel=00F7FF" height="175"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vish-0806&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=c9d1d9&cache_seconds=60" height="220"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vish-0806&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=c9d1d9" height="220"/>
 
 </div>
 
