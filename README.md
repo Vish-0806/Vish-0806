@@ -307,8 +307,6 @@ class TheVish:
 
 <br/>
 
-## `◈ MISSION CONTROL`
-
 ## Featured Projects
 
 A few projects built around one idea: most AI tools help people generate more — these are about helping people understand, access, and learn more.
@@ -324,184 +322,21 @@ A few projects built around one idea: most AI tools help people generate more �
 
 <br/>
 
-### 🧬 CodeDNA — Repository Understanding Platform
-
-AI coding tools have made it easy to *build* software, and harder to *explain* it. Most developers can ship a project and still freeze when someone asks why they made a particular decision — in an interview, a viva, or a handoff to a teammate.
-
-CodeDNA reads a GitHub repository's code, architecture, and full commit history, then turns it into something you can be examined on. It reconstructs how the project evolved, explains the reasoning behind individual commits rather than just the diff, generates architecture diagrams automatically, and quizzes you on your own codebase the way a real interviewer would. It ends with an Understanding Score that shows exactly which parts of the project you can — and can't — explain yet.
-
-**Status:** In Development &nbsp;·&nbsp; **Stack:** Python, React &nbsp;·&nbsp; **Repo:** [github.com/Vish-0806/CodeDNA](https://github.com/Vish-0806/CodeDNA)
-
-<details>
-<summary>Roadmap</summary>
-<br/>
-
-- Team onboarding mode
-- Multi-repository analysis
-- IDE plugin
-- Public API
-
-</details>
-
-<br/>
 
 ---
 
-<br/>
-
-### 🩺 MediConnect — AI-Powered Healthcare Access Platform
-
-Getting a meaningful first opinion on your symptoms before a doctor's visit usually takes hours, and finding the right specialist takes longer still.
-
-MediConnect compresses that into one flow: describe your symptoms, get an AI-assisted preliminary analysis built on spaCy and Groq, and get matched with a relevant doctor or hospital based on that analysis. From there you can book an appointment directly and keep a persistent record of your medical history. It's built to help someone take the first informed step toward care, not to replace a doctor.
-
-**Status:** In Development &nbsp;·&nbsp; **Stack:** FastAPI, React, PostgreSQL &nbsp;·&nbsp; **Repo:** [github.com/Vish-0806/MediConnect](https://github.com/Vish-0806/MediConnect)
-
-<details>
-<summary>Roadmap</summary>
-<br/>
-
-- Specialist referrals
-- Real-time doctor chat
-- Lab result uploads
-
-</details>
-
-<br/>
-
----
-
-<br/>
-
-### 🎙️ Auralis — Voice-Controlled File Manager
-
-File management is still almost entirely mouse-and-keyboard dependent — manually digging through cluttered folders, forgetting where things are saved, no real hands-free option.
-
-Auralis lets you manage your filesystem by speaking to it naturally. Say "find my resume" or "move all PDFs to Documents," and it converts your speech to text, identifies the intent and target file or folder, executes the matching operation, and replies out loud to confirm what it did.
-
-**Status:** In Development &nbsp;·&nbsp; **Stack:** FastAPI, React &nbsp;·&nbsp; **Repo:** [github.com/Vish-0806/Auralis-voice-file-manager](https://github.com/Vish-0806/Auralis-voice-file-manager)
-
-<details>
-<summary>Roadmap</summary>
-<br/>
-
-- System-wide search
-- Multi-step voice macros
-- Cross-platform support
-
-</details>
-
-<br/>
-
----
-
-<br/>
-
-### 📄 EchoScript — PDF-to-Audio Translation Engine &nbsp; 🟢 Live
-
-Dense PDFs take time to read, and most documents aren't available in the language you'd actually prefer to consume them in.
-
-EchoScript extracts the text from any uploaded PDF, optionally translates it into one of several supported languages, and converts the result into natural-sounding speech using neural text-to-speech — combining the output into a single downloadable MP3. A 1–5 page document processes in under 15 seconds; a 50+ page document takes a few minutes.
-
-**Status:** Live &nbsp;·&nbsp; **Stack:** Python, Flask &nbsp;·&nbsp; **Live:** [echoscript-pdf-to-audio-translator.onrender.com](https://echoscript-pdf-to-audio-translator.onrender.com) &nbsp;·&nbsp; **Repo:** [github.com/Vish-0806/EchoScript_PDF_to_Audio_Translator](https://github.com/Vish-0806/EchoScript_PDF_to_Audio_Translator)
-
-<details>
-<summary>Roadmap</summary>
-<br/>
-
-- Additional languages
-- OCR support for scanned PDFs
-- Cloud-saved history
-- Voice selection
-
-</details>
-
-<br/>
-
----
-
-<br/>
-
-### 🎭 Curio AI — Role-Reversal Learning Platform
-
-Students often feel like they understand a topic right after watching a tutorial — until someone asks them to explain it in their own words, and the gaps in their understanding show up immediately.
-
-Curio inverts the usual AI-tutor model: instead of the AI teaching you, you teach the AI. Built on the Feynman Technique and the Protégé Effect, it plays a curious — and occasionally deliberately wrong — student, pushes back with follow-up questions, and surfaces misconceptions for you to correct. At the end of a session, it scores the depth of your explanation and produces a report on exactly what to revisit.
-
-**Status:** Active &nbsp;·&nbsp; **Stack:** FastAPI, Next.js, MongoDB &nbsp;·&nbsp; **Repo:** [github.com/Vish-0806/Curio_AI-Role-Reversal-Learning-AI](https://github.com/Vish-0806/Curio_AI-Role-Reversal-Learning-AI)
-
-<details>
-<summary>Roadmap</summary>
-<br/>
-
-- Spaced repetition
-- Multi-topic sessions
-- Leaderboards and streaks
-
-</details>
-
-<br/>
-
----
-
-<br/>
-
-### 🔬 CircuitSphere — Virtual Physics Lab Simulator
-
-Physical labs come with real constraints — limited hours, limited equipment, and rarely more than one or two attempts at any given experiment.
-
-CircuitSphere recreates real physics-lab experiments in the browser, with the underlying experimental logic implemented in Python rather than JavaScript so results stay accurate to the actual lab manual. Adjust parameters, get live results, generate readings, and plot graphs — with unlimited attempts. Eleven experiments are complete, spanning electronics, modern physics, and optics:
-
-LCR Circuits · Diffraction Grating · Planck's Constant · Photodiode Characteristics · Black Box Component Identification · Fermi Energy · Numerical Aperture · Semiconductor Energy Gap · Dielectric Constant · Bending Loss · BJT Transistor Characteristics
-
-**Status:** Active &nbsp;·&nbsp; **Stack:** Flask, JavaScript, Chart.js &nbsp;·&nbsp; **Repo:** [github.com/Vish-0806/virtual-physics-lab](https://github.com/Vish-0806/virtual-physics-lab)
-
-<details>
-<summary>Roadmap</summary>
-<br/>
-
-- Additional experiments
-- Exportable lab reports
-- AI experiment assistant
-
-</details>
-
-
-<!-- ══════════════════════════════════════════════════════════ -->
-### 🧬 &nbsp; `CodeDNA` &nbsp; — &nbsp; *Discover the DNA of your software*
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────┐
-│  SYSTEM  01  ·                                      │
-│  🧬  CodeDNA                                       │
-│  "Discover the DNA of your software."               │
-└─────────────────────────────────────────────────────┘
-```
-
-</div>
+### 🧬 &nbsp; `CodeDNA` &nbsp; — &nbsp; *Repository Understanding Platform*
 
 ![](https://img.shields.io/badge/◈_STATUS-IN_DEVELOPMENT-FF8C00?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/TYPE-AI_Dev_Tool-00F7FF?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/STACK-Python_·_React-7DF9FF?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/STACK-Python_·_React-00F7FF?style=flat-square&labelColor=0d1117)
 
+> **The problem:** AI tools have made it easy to build software — and easy to lose track of why you built it the way you did.
 
-AI coding tools make building software easier than ever. But a new problem has emerged — developers can build with AI, yet struggle to **explain, defend, or truly understand** what they've built. CodeDNA fixes that.
+CodeDNA reads a repository's code, architecture, and full commit history, then turns it into a teaching tool rather than just a code explainer. It reconstructs how the project evolved, explains the reasoning behind individual commits, generates architecture diagrams automatically, and questions you on your own codebase the way a real interviewer would — ending in an **Understanding Score** that shows exactly what you can and can't explain yet.
 
-It analyzes a repository — commits, architecture, file structure, evolution — and transforms it into structured, living knowledge: explanations, diagrams, mentor sessions, and interview prep, all tailored to your actual codebase.
+`Repository Documentary` · `Commit Intelligence` · `Architecture Visualizer` · `Viva Mode` · `Understanding Score`
 
-```
-  CAPABILITIES
-  ├─ 📖  Repository Documentary    →  commit history told as an evolving story
-  ├─ 🧠  Commit Intelligence       →  understand why every change was made
-  ├─ 🏗️   Architecture Visualizer  →  auto-generated diagrams + dependency maps
-  ├─ 🎓  AI Mentor Mode            →  learn from your own project, not textbooks
-  ├─ 🎤  Viva & Interview Prep     →  answer questions about your own repo
-  └─ 📊  Understanding Score       →  quantify how well you know your project
-
-  FUTURE VISION
-  └─ Team onboarding  ·  Multi-repo analysis  ·  IDE plugin  ·  API access
-```
+**Up next:** team onboarding · multi-repo analysis · IDE plugin
 
 <div align="right">
 
@@ -513,38 +348,18 @@ It analyzes a repository — commits, architecture, file structure, evolution �
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════ -->
+### 🩺 &nbsp; `MediConnect` &nbsp; — &nbsp; *AI-Powered Healthcare Access Platform*
 
-### 🩺 &nbsp; `MediConnect` &nbsp; — &nbsp; *AI-Powered Healthcare Platform*
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────┐
-│  SYSTEM  02                                         │
-│  🩺  MediConnect                                    │
-│  "AI-powered healthcare navigation."                │
-└─────────────────────────────────────────────────────┘
-```
-
-</div>
-
-![](https://img.shields.io/badge/◈_STATUS-IN_PROGRESS-FF8C00?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/◈_STATUS-IN_DEVELOPMENT-FF8C00?style=flat-square&labelColor=0d1117)
 ![](https://img.shields.io/badge/STACK-FastAPI_·_React_·_PostgreSQL-00F7FF?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/AI-spaCy_·_Groq-7DF9FF?style=flat-square&labelColor=0d1117)
 
-Getting a meaningful first health opinion before a doctor visit takes hours. MediConnect compresses that process to seconds — describe your symptoms, get AI-powered preliminary analysis, and connect with the right doctor instantly.
+> **The problem:** Getting a meaningful first opinion on your symptoms before a doctor's visit usually takes hours — finding the right specialist takes longer.
 
-```
-  CAPABILITIES
-  ├─ 🔍  Symptom Analysis          →  NLP-powered diagnosis engine (spaCy + Groq)
-  ├─ 🏥  Doctor & Hospital Match   →  smart discovery based on diagnosis output
-  ├─ 📅  Appointment Booking       →  end-to-end scheduling in one flow
-  ├─ 📁  Patient History           →  persistent records per user
-  └─ 🔐  Secure Auth               →  full login / signup with session management
+MediConnect compresses that into one flow: describe your symptoms, get an AI-assisted preliminary analysis built on spaCy and Groq, and get matched with a relevant doctor or hospital based on the result. From there, book the appointment directly and keep a persistent record of your medical history — built to help someone take the first informed step toward care, not to replace a doctor.
 
-  FUTURE VISION
-  └─ Specialist referrals  ·  Real-time doctor chat  ·  Lab result upload
-```
+`Symptom Analysis` · `Doctor Matching` · `Appointment Booking` · `Patient History` · `Secure Auth`
+
+**Up next:** specialist referrals · real-time doctor chat · lab result uploads
 
 <div align="right">
 
@@ -556,37 +371,22 @@ Getting a meaningful first health opinion before a doctor visit takes hours. Med
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════ -->
 ### 🎙️ &nbsp; `Auralis` &nbsp; — &nbsp; *Voice-Controlled File Manager*
 
-<div align="center">
+![](https://img.shields.io/badge/◈_STATUS-IN_DEVELOPMENT-FF8C00?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/STACK-FastAPI_·_React-00F7FF?style=flat-square&labelColor=0d1117)
+
+> **The problem:** File management is still entirely mouse-and-keyboard dependent — manual digging through cluttered folders, no real hands-free option.
+
+Auralis lets you manage your filesystem by speaking to it naturally — say *"find my resume"* or *"move all PDFs to Documents,"* and it handles the rest.
 
 ```
-┌─────────────────────────────────────────────────────┐
-│  SYSTEM  03                                         │
-│  🎙️  Auralis                                        │
-│  "Control your filesystem with natural speech."     │
-└─────────────────────────────────────────────────────┘
+  🎤 Speak  →  🧠 Intent + Entities  →  ⚙ Execute  →  🔊 Voice Feedback
 ```
 
-</div>
+`create` · `delete` · `rename` · `move` · `find` · `open`
 
-![](https://img.shields.io/badge/◈_STATUS-IN_PROGRESS-FF8C00?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/STACK-FastAPI_·_Vite_·_React-00F7FF?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/ENGINE-NLP_Pipeline-7DF9FF?style=flat-square&labelColor=0d1117)
-
-File management has always been mouse and keyboard dependent. Auralis changes that — your voice becomes the interface. Say it, and it's done.
-
-```
-  PIPELINE
-  🎤 Speak  →  🔑 Wake Word  →  🧹 Normalize  →  🧠 Intent
-            →  🎯 Entities   →  ⚙️  Execute    →  🔊 Feedback
-
-  OPERATIONS  create · delete · rename · move · find · open
-
-  FUTURE VISION
-  └─ System-wide search  ·  Multi-step voice macros  ·  Cross-platform support
-```
+**Up next:** system-wide search · multi-step voice macros · cross-platform support
 
 <div align="right">
 
@@ -598,36 +398,23 @@ File management has always been mouse and keyboard dependent. Auralis changes th
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════ -->
-### 📄 &nbsp; `EchoScript` &nbsp; — &nbsp; *PDF → Audio Intelligence*
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────┐
-│  SYSTEM  04  ·  🟢 LIVE                             │
-│  📄  EchoScript                                     │
-│  "Transform documents into multilingual audiobooks."│
-└─────────────────────────────────────────────────────┘
-```
-
-</div>
+### 📄 &nbsp; `EchoScript` &nbsp; — &nbsp; *PDF-to-Audio Translation Engine*
 
 ![](https://img.shields.io/badge/◈_STATUS-LIVE-00FF88?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/STACK-Python_·_Flask_·_edge--tts-00F7FF?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/STACK-Python_·_Flask-00F7FF?style=flat-square&labelColor=0d1117)
 ![](https://img.shields.io/badge/HOSTED-Render-7DF9FF?style=flat-square&labelColor=0d1117)
 
-Reading dense PDFs is time-consuming. EchoScript converts any document into natural-sounding audio — with optional multilingual translation — so you can learn anywhere, anytime.
+> **The problem:** Dense PDFs take time to read, and most documents aren't available in the language you'd actually prefer.
+
+EchoScript extracts text from any uploaded PDF, optionally translates it, and converts the result into natural speech via neural TTS — combined into one downloadable MP3.
 
 ```
-  PIPELINE
   PDF  →  Extract  →  Clean  →  [ Translate ]  →  Neural TTS  →  MP3
-
-  LANGUAGES   EN · HI · ES · KN
-  SPEED       1–5 pages ≈ 5–15 sec  ·  50+ pages ≈ 2–5 min
-
-  FUTURE VISION
-  └─ More languages  ·  OCR for scanned PDFs  ·  Cloud history  ·  Voice selection
 ```
+
+`EN` · `HI` · `ES` · `KN` &nbsp;&nbsp;|&nbsp;&nbsp; 1–5 pages ≈ 5–15 sec · 50+ pages ≈ 2–5 min
+
+**Up next:** more languages · OCR for scanned PDFs · cloud history · voice selection
 
 <div align="right">
 
@@ -640,42 +427,24 @@ Reading dense PDFs is time-consuming. EchoScript converts any document into natu
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════ -->
 ### 🎭 &nbsp; `Curio AI` &nbsp; — &nbsp; *Role-Reversal Learning Platform*
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────┐
-│  SYSTEM  05  ·                                      │
-│  🎭  Curio AI                                       │
-│  "Learn by teaching."                               │
-└─────────────────────────────────────────────────────┘
-```
-
-</div>
 
 ![](https://img.shields.io/badge/◈_STATUS-ACTIVE-00FF88?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/BASIS-Feynman_Technique-00F7FF?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/EFFECT-Protégé_Effect-7DF9FF?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/BASIS-Feynman_Technique_·_Protégé_Effect-00F7FF?style=flat-square&labelColor=0d1117)
 
-Every AI tutor explains things to you. Curio flips this — **you explain to the AI**. It plays a curious student, challenges your gaps, scores your depth, and tells you exactly what you don't know yet.
+> **The problem:** Students often feel like they understand a topic right after watching a tutorial — until asked to explain it themselves, and the gaps show up immediately.
+
+Curio inverts the usual AI-tutor model: instead of the AI teaching you, **you teach the AI**. It plays a curious — occasionally deliberately wrong — student, pushes back with follow-up questions, and surfaces misconceptions for you to correct. Each session ends with a score and a report on exactly what to revisit.
 
 ```
-  THE LOOP
   You Teach  →  AI Questions  →  Gap Detected  →  You Refine  →  Score + Report
-
-  CAPABILITIES
-  ├─ Role-reversal sessions     →  you are the teacher, AI is the student
-  ├─ Dynamic gap detection      →  AI identifies what you glossed over
-  ├─ Understanding scoring      →  quantified depth of knowledge
-  └─ Personalised report        →  what to study next, and why
-
-  FUTURE VISION
-  └─ Spaced repetition  ·  Multi-topic sessions  ·  Leaderboards  ·  Streaks
 ```
+
+`Role-Reversal Sessions` · `Mistake Injection` · `Gap Detection` · `Understanding Report`
+
+**Up next:** spaced repetition · multi-topic sessions · leaderboards & streaks
 
 <div align="right">
-
 
 [![Repo](https://img.shields.io/badge/◈_VIEW_REPO-Curio_AI-0d1117?style=for-the-badge&logo=github&logoColor=00F7FF)](https://github.com/Vish-0806/Curio_AI-Role-Reversal-Learning-AI)
 
@@ -685,36 +454,19 @@ Every AI tutor explains things to you. Curio flips this — **you explain to the
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════ -->
 ### 🔬 &nbsp; `CircuitSphere` &nbsp; — &nbsp; *Virtual Physics Lab Simulator*
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────┐
-│  SYSTEM  06  ·  🟢 ACTIVE                           │
-│  🔬  CircuitSphere                                  │
-│  "A complete physics laboratory in the browser."    │
-└─────────────────────────────────────────────────────┘
-```
-
-</div>
 
 ![](https://img.shields.io/badge/◈_STATUS-ACTIVE-00FF88?style=flat-square&labelColor=0d1117)
 ![](https://img.shields.io/badge/EXPERIMENTS-11_Complete-00F7FF?style=flat-square&labelColor=0d1117)
 ![](https://img.shields.io/badge/STACK-Flask_·_JavaScript_·_Chart.js-7DF9FF?style=flat-square&labelColor=0d1117)
 
-Physical labs have constraints — equipment fails, access is limited, time runs out. CircuitSphere removes all of that. Every experiment runs in the browser with real physics logic, interactive controls, and auto-generated results.
+> **The problem:** Physical labs come with real constraints — limited hours, limited equipment, rarely more than one or two attempts per experiment.
 
-```
-  EXPERIMENTS  [ 11 complete · expanding ]
-  ⚡ LCR Circuits          🌈 Diffraction Grating     🔬 Planck's Constant
-  💡 Photodiode Chars.     📦 Black Box Component ID  ⚛️  Fermi Energy
-  🔭 Numerical Aperture    🌡️  Energy Gap              🔋 Dielectric Constant
-  📡 Bending Loss          🔌 BJT Transistor Characteristics
+CircuitSphere recreates real physics-lab experiments in the browser, with experimental logic implemented in Python (not JS) so results stay accurate against the actual lab manual. Adjust parameters, get live results, and plot graphs — with unlimited attempts.
 
-  FUTURE VISION
-  └─ More experiments  ·  Lab reports export  ·  AI experiment assistant
-```
+`LCR Circuits` · `Diffraction Grating` · `Planck's Constant` · `Photodiode Characteristics` · `Black Box ID` · `Fermi Energy` · `Numerical Aperture` · `Energy Gap` · `Dielectric Constant` · `Bending Loss` · `BJT Characteristics`
+
+**Up next:** more experiments · exportable lab reports · AI experiment assistant
 
 <div align="right">
 
@@ -722,33 +474,6 @@ Physical labs have constraints — equipment fails, access is limited, time runs
 
 </div>
 
-<br/>
-
-
-<!-- ══ INNOVATION THEMES ══ -->
-
-<!-- <div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════════════════════╗
-║                            ◈  INNOVATION THEMES                                ║
-╠══════════════════════════════════════════════════════════════════════════════════╣
-║                                                                                  ║
-║   🧠  AI Understanding     Making AI explain and teach, not just generate       ║
-║   📚  Human Learning        Systems that measure and deepen real comprehension  ║
-║   🏥  Healthcare Access     Bridging the gap between patients and doctors       ║
-║   🎙️  Voice Interfaces      Natural language as the primary input layer         ║
-║   🔬  Simulation Platforms  Replacing physical constraints with digital fidelity║
-║   🧬  Knowledge Extraction  Turning raw data into structured, usable insight    ║
-║                                                                                  ║
-╚══════════════════════════════════════════════════════════════════════════════════╝
-```
-
-</div> -->
-
----
-
-<br/>
 
 ## `◈ SYSTEM ANALYTICS`
 
