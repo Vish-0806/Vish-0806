@@ -474,6 +474,7 @@ CircuitSphere recreates real physics-lab experiments in the browser, with experi
 
 </div>
 
+---
 
 ## `◈ SYSTEM ANALYTICS`
 
