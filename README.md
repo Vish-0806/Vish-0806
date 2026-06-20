@@ -309,36 +309,163 @@ class TheVish:
 
 ## `◈ MISSION CONTROL`
 
-<!-- <div align="center">
+## Featured Projects
 
-```
-╔══════════════════════════════════════════════════════════════════════════════════╗
-║                         SYSTEMS DASHBOARD  ·  VISH-0806                        ║
-╠═══════════════════╦═══════════════════╦═══════════════════╦══════════════════════╣
-║  TOTAL SYSTEMS    ║  LIVE IN PROD     ║  IN DEVELOPMENT   ║  DOMAINS ACTIVE      ║
-║       06          ║       02          ║       04          ║       06             ║
-╠═══════════════════╩═══════════════════╩═══════════════════╩══════════════════════╣
-║  AI · Healthcare · EdTech · Voice Interfaces · Physics Sim · Developer Tools    ║
-╚══════════════════════════════════════════════════════════════════════════════════╝
-```
+A few projects built around one idea: most AI tools help people generate more — these are about helping people understand, access, and learn more.
 
-```
-  SYSTEM          STATUS          DOMAIN              STACK
-  ─────────────────────────────────────────────────────────────────
-  🧬 CodeDNA      ⚙  Building    AI · DevTools       Python · React
-  🩺 MediConnect  ⚙  Building    Healthcare AI       FastAPI · React
-  🎙️ Auralis       ⚙  Building    Voice Interface     FastAPI · React
-  📄 EchoScript   🟢 Live        Document AI         Python · Flask
-  🎭 Curio AI     🟢 Live        EdTech · AI         FastAPI · React
-  🔬 CircuitSphere 🟢 Active     Physics Sim         Flask · JS
-  ─────────────────────────────────────────────────────────────────
-```
-
-</div>
+| Project | What it does | Status | Stack |
+|---|---|---|---|
+| [CodeDNA](https://github.com/Vish-0806/CodeDNA) | Tests whether you actually understand the code you shipped | In Development | Python, React |
+| [MediConnect](https://github.com/Vish-0806/MediConnect) | AI symptom triage → doctor matching → booking, in one flow | In Development | FastAPI, React, PostgreSQL |
+| [Auralis](https://github.com/Vish-0806/Auralis-voice-file-manager) | Manage your filesystem by speaking to it | In Development | FastAPI, React |
+| [EchoScript](https://echoscript-pdf-to-audio-translator.onrender.com) | Turns PDFs into multilingual audio | 🟢 Live | Python, Flask |
+| [Curio AI](https://github.com/Vish-0806/Curio_AI-Role-Reversal-Learning-AI) | You teach the AI; it tests how well you actually know the topic | Active | FastAPI, Next.js |
+| [CircuitSphere](https://github.com/Vish-0806/virtual-physics-lab) | Real physics lab experiments, fully in-browser | Active | Flask, JavaScript |
 
 <br/>
 
---- -->
+### 🧬 CodeDNA — Repository Understanding Platform
+
+AI coding tools have made it easy to *build* software, and harder to *explain* it. Most developers can ship a project and still freeze when someone asks why they made a particular decision — in an interview, a viva, or a handoff to a teammate.
+
+CodeDNA reads a GitHub repository's code, architecture, and full commit history, then turns it into something you can be examined on. It reconstructs how the project evolved, explains the reasoning behind individual commits rather than just the diff, generates architecture diagrams automatically, and quizzes you on your own codebase the way a real interviewer would. It ends with an Understanding Score that shows exactly which parts of the project you can — and can't — explain yet.
+
+**Status:** In Development &nbsp;·&nbsp; **Stack:** Python, React &nbsp;·&nbsp; **Repo:** [github.com/Vish-0806/CodeDNA](https://github.com/Vish-0806/CodeDNA)
+
+<details>
+<summary>Roadmap</summary>
+<br/>
+
+- Team onboarding mode
+- Multi-repository analysis
+- IDE plugin
+- Public API
+
+</details>
+
+<br/>
+
+---
+
+<br/>
+
+### 🩺 MediConnect — AI-Powered Healthcare Access Platform
+
+Getting a meaningful first opinion on your symptoms before a doctor's visit usually takes hours, and finding the right specialist takes longer still.
+
+MediConnect compresses that into one flow: describe your symptoms, get an AI-assisted preliminary analysis built on spaCy and Groq, and get matched with a relevant doctor or hospital based on that analysis. From there you can book an appointment directly and keep a persistent record of your medical history. It's built to help someone take the first informed step toward care, not to replace a doctor.
+
+**Status:** In Development &nbsp;·&nbsp; **Stack:** FastAPI, React, PostgreSQL &nbsp;·&nbsp; **Repo:** [github.com/Vish-0806/MediConnect](https://github.com/Vish-0806/MediConnect)
+
+<details>
+<summary>Roadmap</summary>
+<br/>
+
+- Specialist referrals
+- Real-time doctor chat
+- Lab result uploads
+
+</details>
+
+<br/>
+
+---
+
+<br/>
+
+### 🎙️ Auralis — Voice-Controlled File Manager
+
+File management is still almost entirely mouse-and-keyboard dependent — manually digging through cluttered folders, forgetting where things are saved, no real hands-free option.
+
+Auralis lets you manage your filesystem by speaking to it naturally. Say "find my resume" or "move all PDFs to Documents," and it converts your speech to text, identifies the intent and target file or folder, executes the matching operation, and replies out loud to confirm what it did.
+
+**Status:** In Development &nbsp;·&nbsp; **Stack:** FastAPI, React &nbsp;·&nbsp; **Repo:** [github.com/Vish-0806/Auralis-voice-file-manager](https://github.com/Vish-0806/Auralis-voice-file-manager)
+
+<details>
+<summary>Roadmap</summary>
+<br/>
+
+- System-wide search
+- Multi-step voice macros
+- Cross-platform support
+
+</details>
+
+<br/>
+
+---
+
+<br/>
+
+### 📄 EchoScript — PDF-to-Audio Translation Engine &nbsp; 🟢 Live
+
+Dense PDFs take time to read, and most documents aren't available in the language you'd actually prefer to consume them in.
+
+EchoScript extracts the text from any uploaded PDF, optionally translates it into one of several supported languages, and converts the result into natural-sounding speech using neural text-to-speech — combining the output into a single downloadable MP3. A 1–5 page document processes in under 15 seconds; a 50+ page document takes a few minutes.
+
+**Status:** Live &nbsp;·&nbsp; **Stack:** Python, Flask &nbsp;·&nbsp; **Live:** [echoscript-pdf-to-audio-translator.onrender.com](https://echoscript-pdf-to-audio-translator.onrender.com) &nbsp;·&nbsp; **Repo:** [github.com/Vish-0806/EchoScript_PDF_to_Audio_Translator](https://github.com/Vish-0806/EchoScript_PDF_to_Audio_Translator)
+
+<details>
+<summary>Roadmap</summary>
+<br/>
+
+- Additional languages
+- OCR support for scanned PDFs
+- Cloud-saved history
+- Voice selection
+
+</details>
+
+<br/>
+
+---
+
+<br/>
+
+### 🎭 Curio AI — Role-Reversal Learning Platform
+
+Students often feel like they understand a topic right after watching a tutorial — until someone asks them to explain it in their own words, and the gaps in their understanding show up immediately.
+
+Curio inverts the usual AI-tutor model: instead of the AI teaching you, you teach the AI. Built on the Feynman Technique and the Protégé Effect, it plays a curious — and occasionally deliberately wrong — student, pushes back with follow-up questions, and surfaces misconceptions for you to correct. At the end of a session, it scores the depth of your explanation and produces a report on exactly what to revisit.
+
+**Status:** Active &nbsp;·&nbsp; **Stack:** FastAPI, Next.js, MongoDB &nbsp;·&nbsp; **Repo:** [github.com/Vish-0806/Curio_AI-Role-Reversal-Learning-AI](https://github.com/Vish-0806/Curio_AI-Role-Reversal-Learning-AI)
+
+<details>
+<summary>Roadmap</summary>
+<br/>
+
+- Spaced repetition
+- Multi-topic sessions
+- Leaderboards and streaks
+
+</details>
+
+<br/>
+
+---
+
+<br/>
+
+### 🔬 CircuitSphere — Virtual Physics Lab Simulator
+
+Physical labs come with real constraints — limited hours, limited equipment, and rarely more than one or two attempts at any given experiment.
+
+CircuitSphere recreates real physics-lab experiments in the browser, with the underlying experimental logic implemented in Python rather than JavaScript so results stay accurate to the actual lab manual. Adjust parameters, get live results, generate readings, and plot graphs — with unlimited attempts. Eleven experiments are complete, spanning electronics, modern physics, and optics:
+
+LCR Circuits · Diffraction Grating · Planck's Constant · Photodiode Characteristics · Black Box Component Identification · Fermi Energy · Numerical Aperture · Semiconductor Energy Gap · Dielectric Constant · Bending Loss · BJT Transistor Characteristics
+
+**Status:** Active &nbsp;·&nbsp; **Stack:** Flask, JavaScript, Chart.js &nbsp;·&nbsp; **Repo:** [github.com/Vish-0806/virtual-physics-lab](https://github.com/Vish-0806/virtual-physics-lab)
+
+<details>
+<summary>Roadmap</summary>
+<br/>
+
+- Additional experiments
+- Exportable lab reports
+- AI experiment assistant
+
+</details>
+
 
 <!-- ══════════════════════════════════════════════════════════ -->
 ### 🧬 &nbsp; `CodeDNA` &nbsp; — &nbsp; *Discover the DNA of your software*
