@@ -14,7 +14,7 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Vish-0806&style=for-the-badge&color=0d1117&labelColor=00F7FF&label=ProfileViewers)](https://github.com/Vish-0806)
+[![Profile Views](https://komarev.com/ghpvc/?username=Vish-0806&style=for-the-badge&color=0d1117&labelColor=00F7FF&label=Viewers)](https://github.com/Vish-0806)
 &nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/Vish-0806?style=for-the-badge&color=00F7FF&labelColor=0d1117)](https://github.com/Vish-0806?tab=followers)
 &nbsp;
