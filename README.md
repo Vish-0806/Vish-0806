@@ -371,30 +371,30 @@ MediConnect compresses that into one flow: describe your symptoms, get an AI-ass
 
 ---
 
-### 🎙️ &nbsp; `Auralis` &nbsp; — &nbsp; *Voice-Controlled File Manager*
+### 🎙️   `Auralis`   —   *AI Voice Assistant for File Management*
 
-![](https://img.shields.io/badge/◈_STATUS-IN_DEVELOPMENT-FF8C00?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/STACK-FastAPI_·_React-00F7FF?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/◈_STATUS-IN_DEVELOPMENT-FF8C00?style=flat-square\&labelColor=0d1117)
+![](https://img.shields.io/badge/STACK-FastAPI_·_React-00F7FF?style=flat-square\&labelColor=0d1117)
 
-> **The problem:** File management is still entirely mouse-and-keyboard dependent — manual digging through cluttered folders, no real hands-free option.
+> **The problem:** File management is still built around clicks, folder navigation, and repetitive manual actions. Even simple tasks like finding, moving, or organizing files require interrupting your workflow.
 
-Auralis lets you manage your filesystem by speaking to it naturally — say *"find my resume"* or *"move all PDFs to Documents,"* and it handles the rest.
+Auralis replaces traditional file navigation with natural conversation. Simply tell it what you want to do—whether that's finding a document, moving files, creating folders, renaming items, or opening directories—and it understands your intent, performs the requested operation safely, and responds with spoken confirmation, making your filesystem feel like something you can talk to instead of navigate.
 
 ```
-  🎤 Speak  →  🧠 Intent + Entities  →  ⚙ Execute  →  🔊 Voice Feedback
+  🎤 Speak  →  🧠 Understand  →  ⚙ Execute  →  🔊 Voice Feedback
 ```
 
-`create` · `delete` · `rename` · `move` · `find` · `open`
+`Find Files` · `Create` · `Move` · `Rename` · `Delete` · `Open`
 
-**Up next:** system-wide search · multi-step voice macros · cross-platform support
+**Up next:** contextual conversations · multi-step workflows · desktop-wide voice automation
 
 <div align="right">
 
-[![Repo](https://img.shields.io/badge/◈_VIEW_REPO-Auralis-0d1117?style=for-the-badge&logo=github&logoColor=00F7FF)](https://github.com/Vish-0806/Auralis-voice-file-manager)
+[![Repo](https://img.shields.io/badge/◈_VIEW_REPO-Auralis-0d1117?style=for-the-badge\&logo=github\&logoColor=00F7FF)](https://github.com/Vish-0806/Auralis-voice-file-manager)
 
 </div>
 
-<br/>
+
 
 ---
 
