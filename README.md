@@ -83,7 +83,7 @@ class TheVish:
 
 <br/>
 
-## `◈ ABOUT ME`
+## `◈ ABOUT ME ✍🏼`
 
 <div align="center">
 
@@ -130,7 +130,7 @@ class TheVish:
 
 <br/>
 
-## `◈ TECH ARSENAL`
+## `◈ TECH ARSENAL 🧠`
 
 <div align="center">
 
