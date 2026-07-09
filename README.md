@@ -476,7 +476,7 @@ CircuitSphere recreates real physics-lab experiments in the browser, with experi
 
 ---
 
-## `◈ SYSTEM ANALYTICS`
+## `◈ SYSTEM ANALYTICS 📇`
 
 <div align="center">
 
@@ -503,7 +503,7 @@ CircuitSphere recreates real physics-lab experiments in the browser, with experi
 
 ---
 
-## `◈ NEURAL ACTIVITY`
+## `◈ NEURAL ACTIVITY 📈`
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vish-0806&theme=react-dark&bg_color=0d1117&color=00F7FF&line=00F7FF&point=ffffff&area=true&area_color=001a2e&hide_border=true" width="100%"/>
@@ -511,7 +511,7 @@ CircuitSphere recreates real physics-lab experiments in the browser, with experi
 
 ---
 
-## `◈ CONTRIBUTION GRID`
+## `◈ CONTRIBUTION GRID 🏁`
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Vish-0806/Vish-0806/output/github-contribution-grid-snake-dark.svg" width="100%"/>
@@ -519,7 +519,7 @@ CircuitSphere recreates real physics-lab experiments in the browser, with experi
 
 ---
 
-## `◈ ACHIEVEMENT RACK`
+## `◈ ACHIEVEMENT RACK 🏆`
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Vish-0806&theme=darkhub&no-frame=true&column=6&margin-w=10&margin-h=10"/>
@@ -527,7 +527,7 @@ CircuitSphere recreates real physics-lab experiments in the browser, with experi
 
 ---
 
-## `◈ OPEN CHANNEL`
+## `◈ OPEN CHANNEL 📖`
 
 <div align="center">
 
