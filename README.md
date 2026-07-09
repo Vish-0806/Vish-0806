@@ -307,7 +307,7 @@ class TheVish:
 
 <br/>
 
-## Featured Projects
+## `◈ Featured Projects 🔍`
 
 A few projects built around one idea: most AI tools help people generate more — these are about helping people understand, access, and learn more.
 
