@@ -535,10 +535,10 @@ CircuitSphere recreates real physics-lab experiments in the browser, with experi
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
 </a>
 &nbsp;
-<a href="https://instagram.com/vishal_naik_2712">
+<!-- <a href="https://instagram.com/vishal_naik_2712">
 <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117"/>
 </a>
-&nbsp;
+&nbsp; -->
 <a href="mailto:vishalsnaik27@gmail.com">
 <img src="https://img.shields.io/badge/Email-Reach_Out-00F7FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
 </a>
