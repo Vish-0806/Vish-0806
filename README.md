@@ -480,26 +480,30 @@ CircuitSphere recreates real physics-lab experiments in the browser, with experi
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Vish-0806&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
-  height="175"
-/>
+<!-- <img
+src="https://github-readme-stats.vercel.app/api?username=Vish-0806&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400"
+height="180"
+/> -->
+![](https://github-readme-stats.shion.dev/api?username=Vish-0806\&theme=tokyonight\&hide_border=true\&include_all_commits=true\&count_private=true)<br/>
 
-&nbsp;&nbsp;
-
 <img
-  src="https://streak-stats.demolab.com?user=Vish-0806&theme=tokyonight&hide_border=true"
-  height="175"
+src="https://streak-stats.demolab.com?user=Vish-0806&theme=tokyonight&hide_border=true"
+height="180"
 />
 
 <br/><br/>
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vish-0806&layout=donut&theme=tokyonight&hide_border=true"
-  height="220"
-/>
+<!-- <img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vish-0806&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"
+height="180"
+/> -->
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Vish-0806\&theme=tokyonight\&hide_border=true\&include_all_commits=true\&count_private=true\&layout=donut)
+
 
 </div>
+
+
 
 ---
 
