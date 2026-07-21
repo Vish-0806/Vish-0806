@@ -520,15 +520,15 @@ height="180"
 <img src="https://raw.githubusercontent.com/Vish-0806/Vish-0806/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
----
+--- 
 
-## `◈ ACHIEVEMENT RACK 🏆`
+<!--## `◈ ACHIEVEMENT RACK 🏆`
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Vish-0806&theme=darkhub&no-frame=true&column=6&margin-w=10&margin-h=10"/>
 </div>
 
----
+--- -->
 
 ## `◈ OPEN CHANNEL 📖`
 
