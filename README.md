@@ -553,7 +553,7 @@ height="180"
 </div>
 
 ---
-
+<!--
 <div align="center">
 
 <br/>
@@ -576,6 +576,7 @@ height="180"
 ```
 
 <br/>
+-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:001a33,70:0d1117,100:00F7FF&height=150&section=footer&text=Thanks+for+visiting+—+let%27s+build+something+great&fontSize=15&fontColor=00F7FF&fontAlignY=65&animation=twinkling"/>
 
