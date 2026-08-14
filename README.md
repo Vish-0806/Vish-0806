@@ -75,6 +75,7 @@ class TheVish:
         return "Let's build something intelligent. 🚀"
 ```
 
+
 </td>
 </tr>
 </table>
