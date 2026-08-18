@@ -73,6 +73,7 @@ class TheVish:
 
     def greet(self):
         return "Let's build something intelligent. 🚀"
+
 ```
 
 
