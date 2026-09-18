@@ -317,7 +317,6 @@ A few projects built around one idea: most AI tools help people generate more �
 | Project | What it does | Status | Stack |
 |---|---|---|---|
 | [CodeDNA](https://github.com/Vish-0806/CodeDNA) | Tests whether you actually understand the code you shipped | In Development | Python, React |
-<!-- | [MediConnect](https://github.com/Vish-0806/MediConnect) | AI symptom triage → doctor matching → booking, in one flow | In Development | FastAPI, React, PostgreSQL |-->
 | [Auralis](https://github.com/Vish-0806/Auralis-voice-file-manager) | Manage your filesystem by speaking to it | In Development | FastAPI, React |
 | [EchoScript](https://echoscript-pdf-to-audio-translator.onrender.com) | Turns PDFs into multilingual audio | 🟢 Live | Python, Flask |
 | [Curio AI](https://github.com/Vish-0806/Curio_AI-Role-Reversal-Learning-AI) | You teach the AI; it tests how well you actually know the topic | Active | FastAPI, Next.js |
