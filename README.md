@@ -317,7 +317,7 @@ A few projects built around one idea: most AI tools help people generate more �
 | Project | What it does | Status | Stack |
 |---|---|---|---|
 | [CodeDNA](https://github.com/Vish-0806/CodeDNA) | Tests whether you actually understand the code you shipped | In Development | Python, React |
-| [MediConnect](https://github.com/Vish-0806/MediConnect) | AI symptom triage → doctor matching → booking, in one flow | In Development | FastAPI, React, PostgreSQL |
+<!-- | [MediConnect](https://github.com/Vish-0806/MediConnect) | AI symptom triage → doctor matching → booking, in one flow | In Development | FastAPI, React, PostgreSQL |-->
 | [Auralis](https://github.com/Vish-0806/Auralis-voice-file-manager) | Manage your filesystem by speaking to it | In Development | FastAPI, React |
 | [EchoScript](https://echoscript-pdf-to-audio-translator.onrender.com) | Turns PDFs into multilingual audio | 🟢 Live | Python, Flask |
 | [Curio AI](https://github.com/Vish-0806/Curio_AI-Role-Reversal-Learning-AI) | You teach the AI; it tests how well you actually know the topic | Active | FastAPI, Next.js |
@@ -351,7 +351,7 @@ CodeDNA reads a repository's code, architecture, and full commit history, then t
 
 ---
 
-### 🩺 &nbsp; `MediConnect` &nbsp; — &nbsp; *AI-Powered Healthcare Access Platform*
+<!--### 🩺 &nbsp; `MediConnect` &nbsp; — &nbsp; *AI-Powered Healthcare Access Platform*
 
 ![](https://img.shields.io/badge/◈_STATUS-IN_DEVELOPMENT-FF8C00?style=flat-square&labelColor=0d1117)
 ![](https://img.shields.io/badge/STACK-FastAPI_·_React_·_PostgreSQL-00F7FF?style=flat-square&labelColor=0d1117)
@@ -372,7 +372,7 @@ MediConnect compresses that into one flow: describe your symptoms, get an AI-ass
 
 <br/>
 
----
+--- -->
 
 ### 🎙️   `Auralis`   —   *AI Voice Assistant for File Management*
 
