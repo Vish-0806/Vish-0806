@@ -321,7 +321,6 @@ A few projects built around one idea: most AI tools help people generate more â€
 | [Auralis](https://github.com/Vish-0806/Auralis-voice-file-manager) | Manage your filesystem by speaking to it | In Development | FastAPI, React |
 | [EchoScript](https://echoscript-pdf-to-audio-translator.onrender.com) | Turns PDFs into multilingual audio | ðŸŸ¢ Live | Python, Flask |
 | [Curio AI](https://github.com/Vish-0806/Curio_AI-Role-Reversal-Learning-AI) | You teach the AI; it tests how well you actually know the topic | Active | FastAPI, Next.js |
-| [CircuitSphere](https://github.com/Vish-0806/virtual-physics-lab) | Real physics lab experiments, fully in-browser | Active | Flask, JavaScript |
 
 <br/>
 
