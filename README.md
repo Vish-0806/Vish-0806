@@ -446,7 +446,7 @@ Curio inverts the usual AI-tutor model: instead of the AI teaching you, **you te
 
 **Up next:** spaced repetition · multi-topic sessions · leaderboards & streaks
 
-<div align="right">
+<div align="right"> 
 
 [![Repo](https://img.shields.io/badge/◈_VIEW_REPO-Curio_AI-0d1117?style=for-the-badge&logo=github&logoColor=00F7FF)](https://github.com/joshi-chinmay-016/Curio-AI)
 
@@ -454,7 +454,6 @@ Curio inverts the usual AI-tutor model: instead of the AI teaching you, **you te
 
 <br/>
 
----
 <!--
 ### 🔬 &nbsp; `CircuitSphere` &nbsp; — &nbsp; *Virtual Physics Lab Simulator*
 
