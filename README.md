@@ -320,7 +320,7 @@ A few projects built around one idea: most AI tools help people generate more �
 | [CodeDNA](https://github.com/Vish-0806/CodeDNA) | Tests whether you actually understand the code you shipped | In Development | Python, React |
 | [Auralis](https://github.com/Vish-0806/Auralis-voice-file-manager) | Manage your filesystem by speaking to it | In Development | FastAPI, React |
 | [EchoScript](https://echoscript-pdf-to-audio-translator.onrender.com) | Turns PDFs into multilingual audio | 🟢 Live | Python, Flask |
-| [Curio AI](https://github.com/Vish-0806/Curio_AI-Role-Reversal-Learning-AI) | You teach the AI; it tests how well you actually know the topic | Active | FastAPI, Next.js |
+| [Curio AI](https://github.com/joshi-chinmay-016/Curio-AI) | You teach the AI; it tests how well you actually know the topic | Active | FastAPI, Next.js |
 
 <br/>
 
@@ -448,7 +448,7 @@ Curio inverts the usual AI-tutor model: instead of the AI teaching you, **you te
 
 <div align="right">
 
-[![Repo](https://img.shields.io/badge/◈_VIEW_REPO-Curio_AI-0d1117?style=for-the-badge&logo=github&logoColor=00F7FF)](https://github.com/Vish-0806/Curio_AI-Role-Reversal-Learning-AI)
+[![Repo](https://img.shields.io/badge/◈_VIEW_REPO-Curio_AI-0d1117?style=for-the-badge&logo=github&logoColor=00F7FF)](https://github.com/joshi-chinmay-016/Curio-AI)
 
 </div>
 
