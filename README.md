@@ -85,6 +85,7 @@ class TheVish:
 
 <br/>
 
+<!--
 ## `◈ ABOUT ME ✍🏼`
 
 <div align="center">
@@ -130,7 +131,7 @@ class TheVish:
 
 ---
 
-<br/>
+<br/> -->
 
 ## `◈ TECH ARSENAL 🧠`
 
@@ -455,7 +456,7 @@ Curio inverts the usual AI-tutor model: instead of the AI teaching you, **you te
 <br/>
 
 ---
-
+<!--
 ### 🔬 &nbsp; `CircuitSphere` &nbsp; — &nbsp; *Virtual Physics Lab Simulator*
 
 ![](https://img.shields.io/badge/◈_STATUS-ACTIVE-00FF88?style=flat-square&labelColor=0d1117)
@@ -474,10 +475,11 @@ CircuitSphere recreates real physics-lab experiments in the browser, with experi
 
 [![Repo](https://img.shields.io/badge/◈_VIEW_REPO-CircuitSphere-0d1117?style=for-the-badge&logo=github&logoColor=00F7FF)](https://github.com/Vish-0806/virtual-physics-lab)
 
-</div>
+</div> -->
 
 ---
 
+<!---
 ## `◈ SYSTEM ANALYTICS 📇`
 
 <div align="center">
@@ -485,7 +487,7 @@ CircuitSphere recreates real physics-lab experiments in the browser, with experi
 <!-- <img
 src="https://github-readme-stats.vercel.app/api?username=Vish-0806&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400"
 height="180"
-/> -->
+/> 
 ![](https://github-readme-stats.shion.dev/api?username=Vish-0806\&theme=tokyonight\&hide_border=true\&include_all_commits=true\&count_private=true)<br/>
 
 <img
@@ -496,7 +498,7 @@ height="180"
 <!-- <img
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vish-0806&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"
 height="180"
-/> -->
+/> 
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Vish-0806\&theme=tokyonight\&hide_border=true\&include_all_commits=true\&count_private=true\&layout=donut)
 
