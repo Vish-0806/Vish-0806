@@ -59,7 +59,7 @@ class TheVish:
 
         self.missions    = [
             "🧬 CodeDNA",
-            "🩺 MediConnect",
+            "🦉 Curio AI",
             "🎙️ Auralis",
             "🔬 CircuitSphere",
             "📄 EchoScript",
