@@ -477,26 +477,20 @@ CircuitSphere recreates real physics-lab experiments in the browser, with experi
 
 ---
 
-<!---
+
 ## `◈ SYSTEM ANALYTICS 📇`
 
 <div align="center">
 
-<!-- <img
+ <img
 src="https://github-readme-stats.vercel.app/api?username=Vish-0806&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400"
 height="180"
 /> 
-![](https://github-readme-stats.shion.dev/api?username=Vish-0806\&theme=tokyonight\&hide_border=true\&include_all_commits=true\&count_private=true)<br/>
-
 <img
 src="https://streak-stats.demolab.com?user=Vish-0806&theme=tokyonight&hide_border=true"
 height="180"
 />
 
-<!-- <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vish-0806&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"
-height="180"
-/> 
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Vish-0806\&theme=tokyonight\&hide_border=true\&include_all_commits=true\&count_private=true\&layout=donut)
 
@@ -507,14 +501,14 @@ height="180"
 
 ---
 
-## `◈ NEURAL ACTIVITY 📈`
+<!--## `◈ NEURAL ACTIVITY 📈`
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vish-0806&theme=react-dark&bg_color=0d1117&color=00F7FF&line=00F7FF&point=ffffff&area=true&area_color=001a2e&hide_border=true" width="100%"/>
 </div>
 
 ---
-
+-->
 ## `◈ CONTRIBUTION GRID 🏁`
 
 <div align="center">
@@ -529,8 +523,8 @@ height="180"
 <img src="https://github-profile-trophy.vercel.app/?username=Vish-0806&theme=darkhub&no-frame=true&column=6&margin-w=10&margin-h=10"/>
 </div>
 
-
---- -->
+-->
+--- 
 
 ## `◈ OPEN CHANNEL 📖`
 
@@ -540,10 +534,6 @@ height="180"
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
 </a>
 &nbsp;
-<!-- <a href="https://instagram.com/vishal_naik_2712">
-<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117"/>
-</a>
-&nbsp; -->
 <a href="mailto:vishalsnaik27@gmail.com">
 <img src="https://img.shields.io/badge/Email-Reach_Out-00F7FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
 </a>
